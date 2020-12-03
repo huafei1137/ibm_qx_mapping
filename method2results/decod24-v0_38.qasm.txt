@@ -1,0 +1,4 @@
+maximum number of CNOT are1
+  CriticalCycles : 130, Parallelcycles : 130
+ Heuristic-cycles: 130
+ overlap-cycles: 130

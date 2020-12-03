@@ -1,0 +1,15 @@
+Benchmark,Critical Cycles,Parallel Cycles,Heuristic Cycles,overlap cycles,Max CNOTS
+shors.n3.formal.qasm,48116,49106,48367,48363,42
+shors.n2.formal.qasm,19772,19783,19772,19772,28
+binary_welded_tree.n9s1.qasm,52229,52333,52283,52267,3
+binary_welded_tree.n1s1.qasm,,,,,
+binary_welded_tree.n3s1.qasm,18757,18816,18757,18765,3
+shors.n4.formal.qasm,90356,95038,92122,92358,64
+binary_welded_tree.n6s1.qasm,36109,36123,36110,36109,3
+binary_welded_tree.n10s1.qasm,58509,58649,58620,58620,3
+binary_welded_tree.n5s1.qasm,29829,29844,29832,29839,3
+binary_welded_tree.n7s1.qasm,41029,41073,41103,41106,3
+binary_welded_tree.n2s1.qasm,14089,14090,14089,14089,3
+shors.n5.formal.qasm,147612,162223,151700,151912,140
+binary_welded_tree.n8s1.qasm,47309,47317,47309,47311,3
+binary_welded_tree.n4s1.qasm,24913,24917,24915,24913,3

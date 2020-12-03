@@ -1,0 +1,920 @@
+0410184_169.qasm.txt:maximum overlap number is5
+0410184_169.qasm.txt:maximum number of CNOT are6
+3_17_13.qasm.txt:maximum overlap number is2
+3_17_13.qasm.txt:maximum number of CNOT are2
+4_49_16.qasm.txt:maximum overlap number is2
+4_49_16.qasm.txt:maximum number of CNOT are2
+4gt10-v1_81.qasm.txt:maximum overlap number is2
+4gt10-v1_81.qasm.txt:maximum number of CNOT are2
+4gt11_82.qasm.txt:maximum overlap number is0
+4gt11_82.qasm.txt:maximum number of CNOT are1
+4gt11_83.qasm.txt:maximum overlap number is0
+4gt11_83.qasm.txt:maximum number of CNOT are1
+4gt11_84.qasm.txt:maximum overlap number is0
+4gt12-v0_86.qasm.txt:maximum overlap number is2
+4gt12-v0_86.qasm.txt:maximum number of CNOT are2
+4gt12-v0_87.qasm.txt:maximum overlap number is2
+4gt12-v0_87.qasm.txt:maximum number of CNOT are2
+4gt12-v0_88.qasm.txt:maximum overlap number is2
+4gt12-v0_88.qasm.txt:maximum number of CNOT are2
+4gt12-v1_89.qasm.txt:maximum overlap number is2
+4gt12-v1_89.qasm.txt:maximum number of CNOT are2
+4gt13_90.qasm.txt:maximum overlap number is2
+4gt13_90.qasm.txt:maximum number of CNOT are2
+4gt13_91.qasm.txt:maximum overlap number is2
+4gt13_91.qasm.txt:maximum number of CNOT are2
+4gt13_92.qasm.txt:maximum overlap number is0
+4gt13_92.qasm.txt:maximum number of CNOT are2
+4gt13-v1_93.qasm.txt:maximum overlap number is0
+4gt13-v1_93.qasm.txt:maximum number of CNOT are2
+4gt4-v0_72.qasm.txt:maximum overlap number is2
+4gt4-v0_72.qasm.txt:maximum number of CNOT are2
+4gt4-v0_73.qasm.txt:maximum overlap number is2
+4gt4-v0_73.qasm.txt:maximum number of CNOT are2
+4gt4-v0_78.qasm.txt:maximum overlap number is2
+4gt4-v0_78.qasm.txt:maximum number of CNOT are2
+4gt4-v0_79.qasm.txt:maximum overlap number is2
+4gt4-v0_79.qasm.txt:maximum number of CNOT are2
+4gt4-v0_80.qasm.txt:maximum overlap number is2
+4gt4-v0_80.qasm.txt:maximum number of CNOT are2
+4gt4-v1_74.qasm.txt:maximum overlap number is2
+4gt4-v1_74.qasm.txt:maximum number of CNOT are2
+4gt5_75.qasm.txt:maximum overlap number is2
+4gt5_75.qasm.txt:maximum number of CNOT are2
+4gt5_76.qasm.txt:maximum overlap number is0
+4gt5_76.qasm.txt:maximum number of CNOT are2
+4gt5_77.qasm.txt:maximum overlap number is2
+4gt5_77.qasm.txt:maximum number of CNOT are2
+4mod5-bdd_287.qasm.txt:maximum overlap number is0
+4mod5-bdd_287.qasm.txt:maximum number of CNOT are1
+4mod5-v0_18.qasm.txt:maximum overlap number is0
+4mod5-v0_18.qasm.txt:maximum number of CNOT are1
+4mod5-v0_19.qasm.txt:maximum overlap number is0
+4mod5-v0_19.qasm.txt:maximum number of CNOT are1
+4mod5-v0_20.qasm.txt:maximum overlap number is2
+4mod5-v0_20.qasm.txt:maximum number of CNOT are2
+4mod5-v1_22.qasm.txt:maximum overlap number is2
+4mod5-v1_22.qasm.txt:maximum number of CNOT are2
+4mod5-v1_23.qasm.txt:maximum overlap number is2
+4mod5-v1_23.qasm.txt:maximum number of CNOT are2
+4mod5-v1_24.qasm.txt:maximum overlap number is2
+4mod5-v1_24.qasm.txt:maximum number of CNOT are2
+4mod7-v0_94.qasm.txt:maximum overlap number is2
+4mod7-v0_94.qasm.txt:maximum number of CNOT are2
+4mod7-v1_96.qasm.txt:maximum overlap number is2
+4mod7-v1_96.qasm.txt:maximum number of CNOT are2
+9symml_195.qasm.txt:maximum overlap number is4
+9symml_195.qasm.txt:maximum number of CNOT are4
+adr4_197.qasm.txt:maximum overlap number is3
+adr4_197.qasm.txt:maximum number of CNOT are3
+aj-e11_165.qasm.txt:maximum overlap number is2
+aj-e11_165.qasm.txt:maximum number of CNOT are2
+alu-bdd_288.qasm.txt:maximum overlap number is3
+alu-bdd_288.qasm.txt:maximum number of CNOT are3
+alu-v0_26.qasm.txt:maximum overlap number is2
+alu-v0_26.qasm.txt:maximum number of CNOT are2
+alu-v0_27.qasm.txt:maximum overlap number is2
+alu-v0_27.qasm.txt:maximum number of CNOT are2
+alu-v1_28.qasm.txt:maximum overlap number is2
+alu-v1_28.qasm.txt:maximum number of CNOT are2
+alu-v1_29.qasm.txt:maximum overlap number is2
+alu-v1_29.qasm.txt:maximum number of CNOT are2
+alu-v2_30.qasm.txt:maximum overlap number is2
+alu-v2_30.qasm.txt:maximum number of CNOT are2
+alu-v2_31.qasm.txt:maximum overlap number is2
+alu-v2_31.qasm.txt:maximum number of CNOT are2
+alu-v2_32.qasm.txt:maximum overlap number is2
+alu-v2_32.qasm.txt:maximum number of CNOT are2
+alu-v2_33.qasm.txt:maximum overlap number is2
+alu-v2_33.qasm.txt:maximum number of CNOT are2
+alu-v3_34.qasm.txt:maximum overlap number is0
+alu-v3_34.qasm.txt:maximum number of CNOT are1
+alu-v3_35.qasm.txt:maximum overlap number is2
+alu-v3_35.qasm.txt:maximum number of CNOT are2
+alu-v4_36.qasm.txt:maximum overlap number is2
+alu-v4_36.qasm.txt:maximum number of CNOT are2
+alu-v4_37.qasm.txt:maximum overlap number is2
+alu-v4_37.qasm.txt:maximum number of CNOT are2
+bv_n100.qasm.txt:maximum overlap number is0
+bv_n100.qasm.txt:maximum number of CNOT are1
+bv_n10.qasm.txt:maximum overlap number is0
+bv_n10.qasm.txt:maximum number of CNOT are1
+bv_n11.qasm.txt:maximum overlap number is0
+bv_n11.qasm.txt:maximum number of CNOT are1
+bv_n12.qasm.txt:maximum overlap number is0
+bv_n12.qasm.txt:maximum number of CNOT are1
+bv_n13.qasm.txt:maximum overlap number is0
+bv_n13.qasm.txt:maximum number of CNOT are1
+bv_n14.qasm.txt:maximum overlap number is0
+bv_n14.qasm.txt:maximum number of CNOT are1
+bv_n150.qasm.txt:maximum overlap number is0
+bv_n150.qasm.txt:maximum number of CNOT are1
+bv_n15.qasm.txt:maximum overlap number is0
+bv_n15.qasm.txt:maximum number of CNOT are1
+bv_n16.qasm.txt:maximum overlap number is0
+bv_n16.qasm.txt:maximum number of CNOT are1
+bv_n17.qasm.txt:maximum overlap number is0
+bv_n17.qasm.txt:maximum number of CNOT are1
+bv_n18.qasm.txt:maximum overlap number is0
+bv_n18.qasm.txt:maximum number of CNOT are1
+bv_n19.qasm.txt:maximum overlap number is0
+bv_n19.qasm.txt:maximum number of CNOT are1
+bv_n200.qasm.txt:maximum overlap number is0
+bv_n200.qasm.txt:maximum number of CNOT are1
+bv_n250.qasm.txt:maximum overlap number is0
+bv_n250.qasm.txt:maximum number of CNOT are1
+bv_n300.qasm.txt:maximum overlap number is0
+bv_n300.qasm.txt:maximum number of CNOT are1
+bv_n350.qasm.txt:maximum overlap number is0
+bv_n350.qasm.txt:maximum number of CNOT are1
+bv_n400.qasm.txt:maximum overlap number is0
+bv_n400.qasm.txt:maximum number of CNOT are1
+bv_n450.qasm.txt:maximum overlap number is0
+bv_n450.qasm.txt:maximum number of CNOT are1
+bv_n500.qasm.txt:maximum overlap number is0
+bv_n500.qasm.txt:maximum number of CNOT are1
+C17_204.qasm.txt:maximum overlap number is2
+C17_204.qasm.txt:maximum number of CNOT are2
+cc_n100.qasm.txt:maximum overlap number is0
+cc_n100.qasm.txt:maximum number of CNOT are1
+cc_n10.qasm.txt:maximum overlap number is0
+cc_n10.qasm.txt:maximum number of CNOT are1
+cc_n11.qasm.txt:maximum overlap number is0
+cc_n11.qasm.txt:maximum number of CNOT are1
+cc_n12.qasm.txt:maximum overlap number is0
+cc_n12.qasm.txt:maximum number of CNOT are1
+cc_n13.qasm.txt:maximum overlap number is0
+cc_n13.qasm.txt:maximum number of CNOT are1
+cc_n14.qasm.txt:maximum overlap number is0
+cc_n14.qasm.txt:maximum number of CNOT are1
+cc_n150.qasm.txt:maximum overlap number is0
+cc_n150.qasm.txt:maximum number of CNOT are1
+cc_n15.qasm.txt:maximum overlap number is0
+cc_n15.qasm.txt:maximum number of CNOT are1
+cc_n16.qasm.txt:maximum overlap number is0
+cc_n16.qasm.txt:maximum number of CNOT are1
+cc_n17.qasm.txt:maximum overlap number is0
+cc_n17.qasm.txt:maximum number of CNOT are1
+cc_n18.qasm.txt:maximum overlap number is0
+cc_n18.qasm.txt:maximum number of CNOT are1
+cc_n19.qasm.txt:maximum overlap number is0
+cc_n19.qasm.txt:maximum number of CNOT are1
+cc_n200.qasm.txt:maximum overlap number is0
+cc_n200.qasm.txt:maximum number of CNOT are1
+cc_n250.qasm.txt:maximum overlap number is0
+cc_n250.qasm.txt:maximum number of CNOT are1
+cc_n300.qasm.txt:maximum overlap number is0
+cc_n300.qasm.txt:maximum number of CNOT are1
+cc_n350.qasm.txt:maximum overlap number is0
+cc_n350.qasm.txt:maximum number of CNOT are1
+cc_n400.qasm.txt:maximum overlap number is0
+cc_n400.qasm.txt:maximum number of CNOT are1
+cc_n450.qasm.txt:maximum overlap number is0
+cc_n450.qasm.txt:maximum number of CNOT are1
+cc_n500.qasm.txt:maximum overlap number is0
+cc_n500.qasm.txt:maximum number of CNOT are1
+clip_206.qasm.txt:maximum overlap number is5
+clip_206.qasm.txt:maximum number of CNOT are6
+cm152a_212.qasm.txt:maximum overlap number is3
+cm152a_212.qasm.txt:maximum number of CNOT are3
+cm42a_207.qasm.txt:maximum overlap number is2
+cm42a_207.qasm.txt:maximum number of CNOT are3
+cm82a_208.qasm.txt:maximum overlap number is2
+cm82a_208.qasm.txt:maximum number of CNOT are2
+cm85a_209.qasm.txt:maximum overlap number is3
+cm85a_209.qasm.txt:maximum number of CNOT are4
+cnt3-5_179.qasm.txt:maximum overlap number is3
+cnt3-5_179.qasm.txt:maximum number of CNOT are6
+cnt3-5_180.qasm.txt:maximum overlap number is3
+cnt3-5_180.qasm.txt:maximum number of CNOT are3
+co14_215.qasm.txt:maximum overlap number is4
+co14_215.qasm.txt:maximum number of CNOT are5
+con1_216.qasm.txt:maximum overlap number is2
+con1_216.qasm.txt:maximum number of CNOT are2
+cycle10_2_110.qasm.txt:maximum overlap number is4
+cycle10_2_110.qasm.txt:maximum number of CNOT are4
+dc1_220.qasm.txt:maximum overlap number is2
+dc1_220.qasm.txt:maximum number of CNOT are3
+dc2_222.qasm.txt:maximum overlap number is3
+dc2_222.qasm.txt:maximum number of CNOT are4
+decod24-bdd_294.qasm.txt:maximum overlap number is2
+decod24-bdd_294.qasm.txt:maximum number of CNOT are2
+decod24-enable_126.qasm.txt:maximum overlap number is2
+decod24-enable_126.qasm.txt:maximum number of CNOT are2
+decod24-v0_38.qasm.txt:maximum overlap number is0
+decod24-v0_38.qasm.txt:maximum number of CNOT are1
+decod24-v1_41.qasm.txt:maximum overlap number is0
+decod24-v1_41.qasm.txt:maximum number of CNOT are2
+decod24-v2_43.qasm.txt:maximum overlap number is0
+decod24-v2_43.qasm.txt:maximum number of CNOT are1
+decod24-v3_45.qasm.txt:maximum overlap number is0
+decod24-v3_45.qasm.txt:maximum number of CNOT are2
+dist_223.qasm.txt:maximum overlap number is4
+dist_223.qasm.txt:maximum number of CNOT are4
+ex-1_166.qasm.txt:maximum overlap number is0
+ex-1_166.qasm.txt:maximum number of CNOT are1
+ex1_226.qasm.txt:maximum overlap number is0
+ex1_226.qasm.txt:maximum number of CNOT are1
+ex2_227.qasm.txt:maximum overlap number is3
+ex2_227.qasm.txt:maximum number of CNOT are3
+ex3_229.qasm.txt:maximum overlap number is2
+ex3_229.qasm.txt:maximum number of CNOT are2
+f2_232.qasm.txt:maximum overlap number is3
+f2_232.qasm.txt:maximum number of CNOT are3
+graycode6_47.qasm.txt:maximum overlap number is0
+graycode6_47.qasm.txt:maximum number of CNOT are1
+ground_state_estimation_10.qasm.txt:maximum overlap number is3
+ground_state_estimation_10.qasm.txt:maximum number of CNOT are3
+ham15_107.qasm.txt:maximum overlap number is6
+ham15_107.qasm.txt:maximum number of CNOT are6
+ham3_102.qasm.txt:maximum overlap number is0
+ham3_102.qasm.txt:maximum number of CNOT are1
+ham7_104.qasm.txt:maximum overlap number is2
+ham7_104.qasm.txt:maximum number of CNOT are2
+hwb4_49.qasm.txt:maximum overlap number is2
+hwb4_49.qasm.txt:maximum number of CNOT are2
+hwb5_53.qasm.txt:maximum overlap number is2
+hwb5_53.qasm.txt:maximum number of CNOT are2
+hwb6_56.qasm.txt:maximum overlap number is3
+hwb6_56.qasm.txt:maximum number of CNOT are3
+hwb7_59.qasm.txt:maximum overlap number is3
+hwb7_59.qasm.txt:maximum number of CNOT are3
+hwb8_113.qasm.txt:maximum overlap number is3
+hwb8_113.qasm.txt:maximum number of CNOT are4
+hwb9_119.qasm.txt:maximum overlap number is4
+hwb9_119.qasm.txt:maximum number of CNOT are4
+inc_237.qasm.txt:maximum overlap number is3
+inc_237.qasm.txt:maximum number of CNOT are3
+ising_model_10.qasm.txt:maximum overlap number is4
+ising_model_10.qasm.txt:maximum number of CNOT are5
+ising_model_13.qasm.txt:maximum overlap number is5
+ising_model_13.qasm.txt:maximum number of CNOT are6
+ising_model_16.qasm.txt:maximum overlap number is5
+ising_model_16.qasm.txt:maximum number of CNOT are8
+ising_model.n1000.qasm.txt:maximum overlap number is33
+ising_model.n1000.qasm.txt:maximum number of CNOT are500
+ising_model.n500.qasm.txt:maximum overlap number is23
+ising_model.n500.qasm.txt:maximum number of CNOT are250
+life_238.qasm.txt:maximum overlap number is4
+life_238.qasm.txt:maximum number of CNOT are5
+majority_239.qasm.txt:maximum overlap number is3
+majority_239.qasm.txt:maximum number of CNOT are3
+max46_240.qasm.txt:maximum overlap number is3
+max46_240.qasm.txt:maximum number of CNOT are4
+miller_11.qasm.txt:maximum overlap number is0
+miller_11.qasm.txt:maximum number of CNOT are1
+mini-alu_167.qasm.txt:maximum overlap number is2
+mini-alu_167.qasm.txt:maximum number of CNOT are2
+mini_alu_305.qasm.txt:maximum overlap number is3
+mini_alu_305.qasm.txt:maximum number of CNOT are3
+misex1_241.qasm.txt:maximum overlap number is3
+misex1_241.qasm.txt:maximum number of CNOT are3
+mlp4_245.qasm.txt:maximum overlap number is4
+mlp4_245.qasm.txt:maximum number of CNOT are5
+mod10_171.qasm.txt:maximum overlap number is0
+mod10_171.qasm.txt:maximum number of CNOT are2
+mod10_176.qasm.txt:maximum overlap number is2
+mod10_176.qasm.txt:maximum number of CNOT are2
+mod5adder_127.qasm.txt:maximum overlap number is2
+mod5adder_127.qasm.txt:maximum number of CNOT are2
+mod5d1_63.qasm.txt:maximum overlap number is2
+mod5d1_63.qasm.txt:maximum number of CNOT are2
+mod5d2_64.qasm.txt:maximum overlap number is0
+mod5d2_64.qasm.txt:maximum number of CNOT are1
+mod5mils_65.qasm.txt:maximum overlap number is0
+mod5mils_65.qasm.txt:maximum number of CNOT are1
+mod8-10_177.qasm.txt:maximum overlap number is2
+mod8-10_177.qasm.txt:maximum number of CNOT are2
+mod8-10_178.qasm.txt:maximum overlap number is2
+mod8-10_178.qasm.txt:maximum number of CNOT are2
+one-two-three-v0_97.qasm.txt:maximum overlap number is2
+one-two-three-v0_97.qasm.txt:maximum number of CNOT are2
+one-two-three-v0_98.qasm.txt:maximum overlap number is2
+one-two-three-v0_98.qasm.txt:maximum number of CNOT are2
+one-two-three-v1_99.qasm.txt:maximum overlap number is2
+one-two-three-v1_99.qasm.txt:maximum number of CNOT are2
+one-two-three-v2_100.qasm.txt:maximum overlap number is2
+one-two-three-v2_100.qasm.txt:maximum number of CNOT are2
+one-two-three-v3_101.qasm.txt:maximum overlap number is2
+one-two-three-v3_101.qasm.txt:maximum number of CNOT are2
+plus63mod4096_163.qasm.txt:maximum overlap number is3
+plus63mod4096_163.qasm.txt:maximum number of CNOT are3
+plus63mod8192_164.qasm.txt:maximum overlap number is3
+plus63mod8192_164.qasm.txt:maximum number of CNOT are3
+pm1_249.qasm.txt:maximum overlap number is2
+pm1_249.qasm.txt:maximum number of CNOT are3
+qft_10.qasm.txt:maximum overlap number is4
+qft_10.qasm.txt:maximum number of CNOT are5
+qft_16.qasm.txt:maximum overlap number is8
+qft_16.qasm.txt:maximum number of CNOT are8
+qft_n100.qasm.txt:maximum overlap number is50
+qft_n100.qasm.txt:maximum number of CNOT are50
+qft_n10.qasm.txt:maximum overlap number is4
+qft_n10.qasm.txt:maximum number of CNOT are5
+qft_n11.qasm.txt:maximum overlap number is5
+qft_n11.qasm.txt:maximum number of CNOT are5
+qft_n12.qasm.txt:maximum overlap number is6
+qft_n12.qasm.txt:maximum number of CNOT are6
+qft_n13.qasm.txt:maximum overlap number is6
+qft_n13.qasm.txt:maximum number of CNOT are6
+qft_n14.qasm.txt:maximum overlap number is6
+qft_n14.qasm.txt:maximum number of CNOT are7
+qft_n150.qasm.txt:maximum overlap number is72
+qft_n150.qasm.txt:maximum number of CNOT are75
+qft_n15.qasm.txt:maximum overlap number is7
+qft_n15.qasm.txt:maximum number of CNOT are7
+qft_n16.qasm.txt:maximum overlap number is8
+qft_n16.qasm.txt:maximum number of CNOT are8
+qft_n17.qasm.txt:maximum overlap number is7
+qft_n17.qasm.txt:maximum number of CNOT are8
+qft_n18.qasm.txt:maximum overlap number is8
+qft_n18.qasm.txt:maximum number of CNOT are9
+qft_n19.qasm.txt:maximum overlap number is9
+qft_n19.qasm.txt:maximum number of CNOT are9
+qft_n200.qasm.txt:maximum overlap number is97
+qft_n200.qasm.txt:maximum number of CNOT are100
+qft_n20.qasm.txt:maximum overlap number is10
+qft_n20.qasm.txt:maximum number of CNOT are10
+qft_n250.qasm.txt:maximum overlap number is122
+qft_n250.qasm.txt:maximum number of CNOT are125
+qft_n300.qasm.txt:maximum overlap number is147
+qft_n300.qasm.txt:maximum number of CNOT are150
+qft_n30.qasm.txt:maximum overlap number is15
+qft_n30.qasm.txt:maximum number of CNOT are15
+qft_n350.qasm.txt:maximum overlap number is171
+qft_n350.qasm.txt:maximum number of CNOT are175
+qft_n400.qasm.txt:maximum overlap number is200
+qft_n400.qasm.txt:maximum number of CNOT are200
+qft_n450.qasm.txt:maximum overlap number is220
+qft_n450.qasm.txt:maximum number of CNOT are225
+qft_n500.qasm.txt:maximum overlap number is247
+qft_n500.qasm.txt:maximum number of CNOT are250
+qft_n50.qasm.txt:maximum overlap number is24
+qft_n50.qasm.txt:maximum number of CNOT are25
+quantum_volume_n32_d32.qasm.txt:maximum overlap number is16
+quantum_volume_n32_d32.qasm.txt:maximum number of CNOT are16
+quantum_volume_n34_d8.qasm.txt:maximum overlap number is16
+quantum_volume_n34_d8.qasm.txt:maximum number of CNOT are17
+quantum_volume_n35_d8.qasm.txt:maximum overlap number is17
+quantum_volume_n35_d8.qasm.txt:maximum number of CNOT are17
+quantum_volume_n36_d8.qasm.txt:maximum overlap number is18
+quantum_volume_n36_d8.qasm.txt:maximum number of CNOT are18
+quantum_volume_n38_d38.qasm.txt:maximum overlap number is19
+quantum_volume_n38_d38.qasm.txt:maximum number of CNOT are19
+quantum_volume_n40_d32.qasm.txt:maximum overlap number is20
+quantum_volume_n40_d32.qasm.txt:maximum number of CNOT are20
+quantum_volume_n40_d40.qasm.txt:maximum overlap number is20
+quantum_volume_n40_d40.qasm.txt:maximum number of CNOT are20
+quantum_volume_n5_d2.qasm.txt:maximum overlap number is0
+quantum_volume_n5_d3.qasm.txt:maximum overlap number is2
+quantum_volume_n5_d4.qasm.txt:maximum overlap number is2
+quantum_volume_n5_d5.qasm.txt:maximum overlap number is2
+radd_250.qasm.txt:maximum overlap number is3
+radd_250.qasm.txt:maximum number of CNOT are3
+rd32_270.qasm.txt:maximum overlap number is0
+rd32_270.qasm.txt:maximum number of CNOT are1
+rd32-v0_66.qasm.txt:maximum overlap number is0
+rd32-v0_66.qasm.txt:maximum number of CNOT are1
+rd32-v1_68.qasm.txt:maximum overlap number is0
+rd32-v1_68.qasm.txt:maximum number of CNOT are1
+rd53_130.qasm.txt:maximum overlap number is2
+rd53_130.qasm.txt:maximum number of CNOT are3
+rd53_131.qasm.txt:maximum overlap number is3
+rd53_131.qasm.txt:maximum number of CNOT are3
+rd53_133.qasm.txt:maximum overlap number is3
+rd53_133.qasm.txt:maximum number of CNOT are3
+rd53_135.qasm.txt:maximum overlap number is2
+rd53_135.qasm.txt:maximum number of CNOT are3
+rd53_138.qasm.txt:maximum overlap number is2
+rd53_138.qasm.txt:maximum number of CNOT are2
+rd53_251.qasm.txt:maximum overlap number is2
+rd53_251.qasm.txt:maximum number of CNOT are2
+rd53_311.qasm.txt:maximum overlap number is2
+rd53_311.qasm.txt:maximum number of CNOT are2
+rd73_140.qasm.txt:maximum overlap number is2
+rd73_140.qasm.txt:maximum number of CNOT are2
+rd73_252.qasm.txt:maximum overlap number is3
+rd73_252.qasm.txt:maximum number of CNOT are3
+rd84_142.qasm.txt:maximum overlap number is3
+rd84_142.qasm.txt:maximum number of CNOT are3
+rd84_253.qasm.txt:maximum overlap number is3
+rd84_253.qasm.txt:maximum number of CNOT are3
+root_255.qasm.txt:maximum overlap number is4
+root_255.qasm.txt:maximum number of CNOT are4
+sao2_257.qasm.txt:maximum overlap number is3
+sao2_257.qasm.txt:maximum number of CNOT are3
+sat_n10_vars=4_clauses=4_clauselen=4_fb92209893909945c2bc1144e6972464.qasm.txt:maximum overlap number is2
+sat_n7_vars=3_clauses=3_clauselen=3_fd2ff8bf99b05c13216600154bc6bc21.qasm.txt:maximum overlap number is2
+sat_n7_vars=3_clauses=3_clauselen=3_fd2ff8bf99b05c13216600154bc6bc21.qasm.txt:maximum number of CNOT are2
+sf_274.qasm.txt:maximum overlap number is2
+sf_274.qasm.txt:maximum number of CNOT are2
+sf_276.qasm.txt:maximum overlap number is2
+sf_276.qasm.txt:maximum number of CNOT are2
+sqn_258.qasm.txt:maximum overlap number is3
+sqn_258.qasm.txt:maximum number of CNOT are3
+sqrt8_260.qasm.txt:maximum overlap number is3
+sqrt8_260.qasm.txt:maximum number of CNOT are3
+squar5_261.qasm.txt:maximum overlap number is2
+squar5_261.qasm.txt:maximum number of CNOT are2
+square_root_7.qasm.txt:maximum overlap number is7
+square_root_7.qasm.txt:maximum number of CNOT are7
+summary.txt:0410184_169.qasm.txt:maximum overlap number is5
+summary.txt:0410184_169.qasm.txt:maximum number of CNOT are6
+summary.txt:3_17_13.qasm.txt:maximum overlap number is2
+summary.txt:3_17_13.qasm.txt:maximum number of CNOT are2
+summary.txt:4_49_16.qasm.txt:maximum overlap number is2
+summary.txt:4_49_16.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt10-v1_81.qasm.txt:maximum overlap number is2
+summary.txt:4gt10-v1_81.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt11_82.qasm.txt:maximum overlap number is0
+summary.txt:4gt11_82.qasm.txt:maximum number of CNOT are1
+summary.txt:4gt11_83.qasm.txt:maximum overlap number is0
+summary.txt:4gt11_83.qasm.txt:maximum number of CNOT are1
+summary.txt:4gt11_84.qasm.txt:maximum overlap number is0
+summary.txt:4gt12-v0_86.qasm.txt:maximum overlap number is2
+summary.txt:4gt12-v0_86.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt12-v0_87.qasm.txt:maximum overlap number is2
+summary.txt:4gt12-v0_87.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt12-v0_88.qasm.txt:maximum overlap number is2
+summary.txt:4gt12-v0_88.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt12-v1_89.qasm.txt:maximum overlap number is2
+summary.txt:4gt12-v1_89.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt13_90.qasm.txt:maximum overlap number is2
+summary.txt:4gt13_90.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt13_91.qasm.txt:maximum overlap number is2
+summary.txt:4gt13_91.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt13_92.qasm.txt:maximum overlap number is0
+summary.txt:4gt13_92.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt13-v1_93.qasm.txt:maximum overlap number is0
+summary.txt:4gt13-v1_93.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt4-v0_72.qasm.txt:maximum overlap number is2
+summary.txt:4gt4-v0_72.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt4-v0_73.qasm.txt:maximum overlap number is2
+summary.txt:4gt4-v0_73.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt4-v0_78.qasm.txt:maximum overlap number is2
+summary.txt:4gt4-v0_78.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt4-v0_79.qasm.txt:maximum overlap number is2
+summary.txt:4gt4-v0_79.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt4-v0_80.qasm.txt:maximum overlap number is2
+summary.txt:4gt4-v0_80.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt4-v1_74.qasm.txt:maximum overlap number is2
+summary.txt:4gt4-v1_74.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt5_75.qasm.txt:maximum overlap number is2
+summary.txt:4gt5_75.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt5_76.qasm.txt:maximum overlap number is0
+summary.txt:4gt5_76.qasm.txt:maximum number of CNOT are2
+summary.txt:4gt5_77.qasm.txt:maximum overlap number is2
+summary.txt:4gt5_77.qasm.txt:maximum number of CNOT are2
+summary.txt:4mod5-bdd_287.qasm.txt:maximum overlap number is0
+summary.txt:4mod5-bdd_287.qasm.txt:maximum number of CNOT are1
+summary.txt:4mod5-v0_18.qasm.txt:maximum overlap number is0
+summary.txt:4mod5-v0_18.qasm.txt:maximum number of CNOT are1
+summary.txt:4mod5-v0_19.qasm.txt:maximum overlap number is0
+summary.txt:4mod5-v0_19.qasm.txt:maximum number of CNOT are1
+summary.txt:4mod5-v0_20.qasm.txt:maximum overlap number is2
+summary.txt:4mod5-v0_20.qasm.txt:maximum number of CNOT are2
+summary.txt:4mod5-v1_22.qasm.txt:maximum overlap number is2
+summary.txt:4mod5-v1_22.qasm.txt:maximum number of CNOT are2
+summary.txt:4mod5-v1_23.qasm.txt:maximum overlap number is2
+summary.txt:4mod5-v1_23.qasm.txt:maximum number of CNOT are2
+summary.txt:4mod5-v1_24.qasm.txt:maximum overlap number is2
+summary.txt:4mod5-v1_24.qasm.txt:maximum number of CNOT are2
+summary.txt:4mod7-v0_94.qasm.txt:maximum overlap number is2
+summary.txt:4mod7-v0_94.qasm.txt:maximum number of CNOT are2
+summary.txt:4mod7-v1_96.qasm.txt:maximum overlap number is2
+summary.txt:4mod7-v1_96.qasm.txt:maximum number of CNOT are2
+summary.txt:9symml_195.qasm.txt:maximum overlap number is4
+summary.txt:9symml_195.qasm.txt:maximum number of CNOT are4
+summary.txt:adr4_197.qasm.txt:maximum overlap number is3
+summary.txt:adr4_197.qasm.txt:maximum number of CNOT are3
+summary.txt:aj-e11_165.qasm.txt:maximum overlap number is2
+summary.txt:aj-e11_165.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-bdd_288.qasm.txt:maximum overlap number is3
+summary.txt:alu-bdd_288.qasm.txt:maximum number of CNOT are3
+summary.txt:alu-v0_26.qasm.txt:maximum overlap number is2
+summary.txt:alu-v0_26.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v0_27.qasm.txt:maximum overlap number is2
+summary.txt:alu-v0_27.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v1_28.qasm.txt:maximum overlap number is2
+summary.txt:alu-v1_28.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v1_29.qasm.txt:maximum overlap number is2
+summary.txt:alu-v1_29.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v2_30.qasm.txt:maximum overlap number is2
+summary.txt:alu-v2_30.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v2_31.qasm.txt:maximum overlap number is2
+summary.txt:alu-v2_31.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v2_32.qasm.txt:maximum overlap number is2
+summary.txt:alu-v2_32.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v2_33.qasm.txt:maximum overlap number is2
+summary.txt:alu-v2_33.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v3_34.qasm.txt:maximum overlap number is0
+summary.txt:alu-v3_34.qasm.txt:maximum number of CNOT are1
+summary.txt:alu-v3_35.qasm.txt:maximum overlap number is2
+summary.txt:alu-v3_35.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v4_36.qasm.txt:maximum overlap number is2
+summary.txt:alu-v4_36.qasm.txt:maximum number of CNOT are2
+summary.txt:alu-v4_37.qasm.txt:maximum overlap number is2
+summary.txt:alu-v4_37.qasm.txt:maximum number of CNOT are2
+summary.txt:bv_n100.qasm.txt:maximum overlap number is0
+summary.txt:bv_n100.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n10.qasm.txt:maximum overlap number is0
+summary.txt:bv_n10.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n11.qasm.txt:maximum overlap number is0
+summary.txt:bv_n11.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n12.qasm.txt:maximum overlap number is0
+summary.txt:bv_n12.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n13.qasm.txt:maximum overlap number is0
+summary.txt:bv_n13.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n14.qasm.txt:maximum overlap number is0
+summary.txt:bv_n14.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n150.qasm.txt:maximum overlap number is0
+summary.txt:bv_n150.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n15.qasm.txt:maximum overlap number is0
+summary.txt:bv_n15.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n16.qasm.txt:maximum overlap number is0
+summary.txt:bv_n16.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n17.qasm.txt:maximum overlap number is0
+summary.txt:bv_n17.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n18.qasm.txt:maximum overlap number is0
+summary.txt:bv_n18.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n19.qasm.txt:maximum overlap number is0
+summary.txt:bv_n19.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n200.qasm.txt:maximum overlap number is0
+summary.txt:bv_n200.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n250.qasm.txt:maximum overlap number is0
+summary.txt:bv_n250.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n300.qasm.txt:maximum overlap number is0
+summary.txt:bv_n300.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n350.qasm.txt:maximum overlap number is0
+summary.txt:bv_n350.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n400.qasm.txt:maximum overlap number is0
+summary.txt:bv_n400.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n450.qasm.txt:maximum overlap number is0
+summary.txt:bv_n450.qasm.txt:maximum number of CNOT are1
+summary.txt:bv_n500.qasm.txt:maximum overlap number is0
+summary.txt:bv_n500.qasm.txt:maximum number of CNOT are1
+summary.txt:C17_204.qasm.txt:maximum overlap number is2
+summary.txt:C17_204.qasm.txt:maximum number of CNOT are2
+summary.txt:cc_n100.qasm.txt:maximum overlap number is0
+summary.txt:cc_n100.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n10.qasm.txt:maximum overlap number is0
+summary.txt:cc_n10.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n11.qasm.txt:maximum overlap number is0
+summary.txt:cc_n11.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n12.qasm.txt:maximum overlap number is0
+summary.txt:cc_n12.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n13.qasm.txt:maximum overlap number is0
+summary.txt:cc_n13.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n14.qasm.txt:maximum overlap number is0
+summary.txt:cc_n14.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n150.qasm.txt:maximum overlap number is0
+summary.txt:cc_n150.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n15.qasm.txt:maximum overlap number is0
+summary.txt:cc_n15.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n16.qasm.txt:maximum overlap number is0
+summary.txt:cc_n16.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n17.qasm.txt:maximum overlap number is0
+summary.txt:cc_n17.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n18.qasm.txt:maximum overlap number is0
+summary.txt:cc_n18.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n19.qasm.txt:maximum overlap number is0
+summary.txt:cc_n19.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n200.qasm.txt:maximum overlap number is0
+summary.txt:cc_n200.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n250.qasm.txt:maximum overlap number is0
+summary.txt:cc_n250.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n300.qasm.txt:maximum overlap number is0
+summary.txt:cc_n300.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n350.qasm.txt:maximum overlap number is0
+summary.txt:cc_n350.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n400.qasm.txt:maximum overlap number is0
+summary.txt:cc_n400.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n450.qasm.txt:maximum overlap number is0
+summary.txt:cc_n450.qasm.txt:maximum number of CNOT are1
+summary.txt:cc_n500.qasm.txt:maximum overlap number is0
+summary.txt:cc_n500.qasm.txt:maximum number of CNOT are1
+summary.txt:clip_206.qasm.txt:maximum overlap number is5
+summary.txt:clip_206.qasm.txt:maximum number of CNOT are6
+summary.txt:cm152a_212.qasm.txt:maximum overlap number is3
+summary.txt:cm152a_212.qasm.txt:maximum number of CNOT are3
+summary.txt:cm42a_207.qasm.txt:maximum overlap number is2
+summary.txt:cm42a_207.qasm.txt:maximum number of CNOT are3
+summary.txt:cm82a_208.qasm.txt:maximum overlap number is2
+summary.txt:cm82a_208.qasm.txt:maximum number of CNOT are2
+summary.txt:cm85a_209.qasm.txt:maximum overlap number is3
+summary.txt:cm85a_209.qasm.txt:maximum number of CNOT are4
+summary.txt:cnt3-5_179.qasm.txt:maximum overlap number is3
+summary.txt:cnt3-5_179.qasm.txt:maximum number of CNOT are6
+summary.txt:cnt3-5_180.qasm.txt:maximum overlap number is3
+summary.txt:cnt3-5_180.qasm.txt:maximum number of CNOT are3
+summary.txt:co14_215.qasm.txt:maximum overlap number is4
+summary.txt:co14_215.qasm.txt:maximum number of CNOT are5
+summary.txt:con1_216.qasm.txt:maximum overlap number is2
+summary.txt:con1_216.qasm.txt:maximum number of CNOT are2
+summary.txt:cycle10_2_110.qasm.txt:maximum overlap number is4
+summary.txt:cycle10_2_110.qasm.txt:maximum number of CNOT are4
+summary.txt:dc1_220.qasm.txt:maximum overlap number is2
+summary.txt:dc1_220.qasm.txt:maximum number of CNOT are3
+summary.txt:dc2_222.qasm.txt:maximum overlap number is3
+summary.txt:dc2_222.qasm.txt:maximum number of CNOT are4
+summary.txt:decod24-bdd_294.qasm.txt:maximum overlap number is2
+summary.txt:decod24-bdd_294.qasm.txt:maximum number of CNOT are2
+summary.txt:decod24-enable_126.qasm.txt:maximum overlap number is2
+summary.txt:decod24-enable_126.qasm.txt:maximum number of CNOT are2
+summary.txt:decod24-v0_38.qasm.txt:maximum overlap number is0
+summary.txt:decod24-v0_38.qasm.txt:maximum number of CNOT are1
+summary.txt:decod24-v1_41.qasm.txt:maximum overlap number is0
+summary.txt:decod24-v1_41.qasm.txt:maximum number of CNOT are2
+summary.txt:decod24-v2_43.qasm.txt:maximum overlap number is0
+summary.txt:decod24-v2_43.qasm.txt:maximum number of CNOT are1
+summary.txt:decod24-v3_45.qasm.txt:maximum overlap number is0
+summary.txt:decod24-v3_45.qasm.txt:maximum number of CNOT are2
+summary.txt:dist_223.qasm.txt:maximum overlap number is4
+summary.txt:dist_223.qasm.txt:maximum number of CNOT are4
+summary.txt:ex-1_166.qasm.txt:maximum overlap number is0
+summary.txt:ex-1_166.qasm.txt:maximum number of CNOT are1
+summary.txt:ex1_226.qasm.txt:maximum overlap number is0
+summary.txt:ex1_226.qasm.txt:maximum number of CNOT are1
+summary.txt:ex2_227.qasm.txt:maximum overlap number is3
+summary.txt:ex2_227.qasm.txt:maximum number of CNOT are3
+summary.txt:ex3_229.qasm.txt:maximum overlap number is2
+summary.txt:ex3_229.qasm.txt:maximum number of CNOT are2
+summary.txt:f2_232.qasm.txt:maximum overlap number is3
+summary.txt:f2_232.qasm.txt:maximum number of CNOT are3
+summary.txt:graycode6_47.qasm.txt:maximum overlap number is0
+summary.txt:graycode6_47.qasm.txt:maximum number of CNOT are1
+summary.txt:ground_state_estimation_10.qasm.txt:maximum overlap number is3
+summary.txt:ground_state_estimation_10.qasm.txt:maximum number of CNOT are3
+summary.txt:ham15_107.qasm.txt:maximum overlap number is6
+summary.txt:ham15_107.qasm.txt:maximum number of CNOT are6
+summary.txt:ham3_102.qasm.txt:maximum overlap number is0
+summary.txt:ham3_102.qasm.txt:maximum number of CNOT are1
+summary.txt:ham7_104.qasm.txt:maximum overlap number is2
+summary.txt:ham7_104.qasm.txt:maximum number of CNOT are2
+summary.txt:hwb4_49.qasm.txt:maximum overlap number is2
+summary.txt:hwb4_49.qasm.txt:maximum number of CNOT are2
+summary.txt:hwb5_53.qasm.txt:maximum overlap number is2
+summary.txt:hwb5_53.qasm.txt:maximum number of CNOT are2
+summary.txt:hwb6_56.qasm.txt:maximum overlap number is3
+summary.txt:hwb6_56.qasm.txt:maximum number of CNOT are3
+summary.txt:hwb7_59.qasm.txt:maximum overlap number is3
+summary.txt:hwb7_59.qasm.txt:maximum number of CNOT are3
+summary.txt:hwb8_113.qasm.txt:maximum overlap number is3
+summary.txt:hwb8_113.qasm.txt:maximum number of CNOT are4
+summary.txt:hwb9_119.qasm.txt:maximum overlap number is4
+summary.txt:hwb9_119.qasm.txt:maximum number of CNOT are4
+summary.txt:inc_237.qasm.txt:maximum overlap number is3
+summary.txt:inc_237.qasm.txt:maximum number of CNOT are3
+summary.txt:ising_model_10.qasm.txt:maximum overlap number is4
+summary.txt:ising_model_10.qasm.txt:maximum number of CNOT are5
+summary.txt:ising_model_13.qasm.txt:maximum overlap number is5
+summary.txt:ising_model_13.qasm.txt:maximum number of CNOT are6
+summary.txt:ising_model_16.qasm.txt:maximum overlap number is5
+summary.txt:ising_model_16.qasm.txt:maximum number of CNOT are8
+summary.txt:ising_model.n1000.qasm.txt:maximum overlap number is33
+summary.txt:ising_model.n1000.qasm.txt:maximum number of CNOT are500
+summary.txt:ising_model.n500.qasm.txt:maximum overlap number is23
+summary.txt:ising_model.n500.qasm.txt:maximum number of CNOT are250
+summary.txt:life_238.qasm.txt:maximum overlap number is4
+summary.txt:life_238.qasm.txt:maximum number of CNOT are5
+summary.txt:majority_239.qasm.txt:maximum overlap number is3
+summary.txt:majority_239.qasm.txt:maximum number of CNOT are3
+summary.txt:max46_240.qasm.txt:maximum overlap number is3
+summary.txt:max46_240.qasm.txt:maximum number of CNOT are4
+summary.txt:miller_11.qasm.txt:maximum overlap number is0
+summary.txt:miller_11.qasm.txt:maximum number of CNOT are1
+summary.txt:mini-alu_167.qasm.txt:maximum overlap number is2
+summary.txt:mini-alu_167.qasm.txt:maximum number of CNOT are2
+summary.txt:mini_alu_305.qasm.txt:maximum overlap number is3
+summary.txt:mini_alu_305.qasm.txt:maximum number of CNOT are3
+summary.txt:misex1_241.qasm.txt:maximum overlap number is3
+summary.txt:misex1_241.qasm.txt:maximum number of CNOT are3
+summary.txt:mlp4_245.qasm.txt:maximum overlap number is4
+summary.txt:mlp4_245.qasm.txt:maximum number of CNOT are5
+summary.txt:mod10_171.qasm.txt:maximum overlap number is0
+summary.txt:mod10_171.qasm.txt:maximum number of CNOT are2
+summary.txt:mod10_176.qasm.txt:maximum overlap number is2
+summary.txt:mod10_176.qasm.txt:maximum number of CNOT are2
+summary.txt:mod5adder_127.qasm.txt:maximum overlap number is2
+summary.txt:mod5adder_127.qasm.txt:maximum number of CNOT are2
+summary.txt:mod5d1_63.qasm.txt:maximum overlap number is2
+summary.txt:mod5d1_63.qasm.txt:maximum number of CNOT are2
+summary.txt:mod5d2_64.qasm.txt:maximum overlap number is0
+summary.txt:mod5d2_64.qasm.txt:maximum number of CNOT are1
+summary.txt:mod5mils_65.qasm.txt:maximum overlap number is0
+summary.txt:mod5mils_65.qasm.txt:maximum number of CNOT are1
+summary.txt:mod8-10_177.qasm.txt:maximum overlap number is2
+summary.txt:mod8-10_177.qasm.txt:maximum number of CNOT are2
+summary.txt:mod8-10_178.qasm.txt:maximum overlap number is2
+summary.txt:mod8-10_178.qasm.txt:maximum number of CNOT are2
+summary.txt:one-two-three-v0_97.qasm.txt:maximum overlap number is2
+summary.txt:one-two-three-v0_97.qasm.txt:maximum number of CNOT are2
+summary.txt:one-two-three-v0_98.qasm.txt:maximum overlap number is2
+summary.txt:one-two-three-v0_98.qasm.txt:maximum number of CNOT are2
+summary.txt:one-two-three-v1_99.qasm.txt:maximum overlap number is2
+summary.txt:one-two-three-v1_99.qasm.txt:maximum number of CNOT are2
+summary.txt:one-two-three-v2_100.qasm.txt:maximum overlap number is2
+summary.txt:one-two-three-v2_100.qasm.txt:maximum number of CNOT are2
+summary.txt:one-two-three-v3_101.qasm.txt:maximum overlap number is2
+summary.txt:one-two-three-v3_101.qasm.txt:maximum number of CNOT are2
+summary.txt:plus63mod4096_163.qasm.txt:maximum overlap number is3
+summary.txt:plus63mod4096_163.qasm.txt:maximum number of CNOT are3
+summary.txt:plus63mod8192_164.qasm.txt:maximum overlap number is3
+summary.txt:plus63mod8192_164.qasm.txt:maximum number of CNOT are3
+summary.txt:pm1_249.qasm.txt:maximum overlap number is2
+summary.txt:pm1_249.qasm.txt:maximum number of CNOT are3
+summary.txt:qft_10.qasm.txt:maximum overlap number is4
+summary.txt:qft_10.qasm.txt:maximum number of CNOT are5
+summary.txt:qft_16.qasm.txt:maximum overlap number is8
+summary.txt:qft_16.qasm.txt:maximum number of CNOT are8
+summary.txt:qft_n100.qasm.txt:maximum overlap number is50
+summary.txt:qft_n100.qasm.txt:maximum number of CNOT are50
+summary.txt:qft_n10.qasm.txt:maximum overlap number is4
+summary.txt:qft_n10.qasm.txt:maximum number of CNOT are5
+summary.txt:qft_n11.qasm.txt:maximum overlap number is5
+summary.txt:qft_n11.qasm.txt:maximum number of CNOT are5
+summary.txt:qft_n12.qasm.txt:maximum overlap number is6
+summary.txt:qft_n12.qasm.txt:maximum number of CNOT are6
+summary.txt:qft_n13.qasm.txt:maximum overlap number is6
+summary.txt:qft_n13.qasm.txt:maximum number of CNOT are6
+summary.txt:qft_n14.qasm.txt:maximum overlap number is6
+summary.txt:qft_n14.qasm.txt:maximum number of CNOT are7
+summary.txt:qft_n150.qasm.txt:maximum overlap number is72
+summary.txt:qft_n150.qasm.txt:maximum number of CNOT are75
+summary.txt:qft_n15.qasm.txt:maximum overlap number is7
+summary.txt:qft_n15.qasm.txt:maximum number of CNOT are7
+summary.txt:qft_n16.qasm.txt:maximum overlap number is8
+summary.txt:qft_n16.qasm.txt:maximum number of CNOT are8
+summary.txt:qft_n17.qasm.txt:maximum overlap number is7
+summary.txt:qft_n17.qasm.txt:maximum number of CNOT are8
+summary.txt:qft_n18.qasm.txt:maximum overlap number is8
+summary.txt:qft_n18.qasm.txt:maximum number of CNOT are9
+summary.txt:qft_n19.qasm.txt:maximum overlap number is9
+summary.txt:qft_n19.qasm.txt:maximum number of CNOT are9
+summary.txt:qft_n200.qasm.txt:maximum overlap number is97
+summary.txt:qft_n200.qasm.txt:maximum number of CNOT are100
+summary.txt:qft_n20.qasm.txt:maximum overlap number is10
+summary.txt:qft_n20.qasm.txt:maximum number of CNOT are10
+summary.txt:qft_n250.qasm.txt:maximum overlap number is122
+summary.txt:qft_n250.qasm.txt:maximum number of CNOT are125
+summary.txt:qft_n300.qasm.txt:maximum overlap number is147
+summary.txt:qft_n300.qasm.txt:maximum number of CNOT are150
+summary.txt:qft_n30.qasm.txt:maximum overlap number is15
+summary.txt:qft_n30.qasm.txt:maximum number of CNOT are15
+summary.txt:qft_n350.qasm.txt:maximum overlap number is171
+summary.txt:qft_n350.qasm.txt:maximum number of CNOT are175
+summary.txt:qft_n400.qasm.txt:maximum overlap number is200
+summary.txt:qft_n400.qasm.txt:maximum number of CNOT are200
+summary.txt:qft_n450.qasm.txt:maximum overlap number is220
+summary.txt:qft_n450.qasm.txt:maximum number of CNOT are225
+summary.txt:qft_n500.qasm.txt:maximum overlap number is247
+summary.txt:qft_n500.qasm.txt:maximum number of CNOT are250
+summary.txt:qft_n50.qasm.txt:maximum overlap number is24
+summary.txt:qft_n50.qasm.txt:maximum number of CNOT are25
+summary.txt:quantum_volume_n32_d32.qasm.txt:maximum overlap number is16
+summary.txt:quantum_volume_n32_d32.qasm.txt:maximum number of CNOT are16
+summary.txt:quantum_volume_n34_d8.qasm.txt:maximum overlap number is16
+summary.txt:quantum_volume_n34_d8.qasm.txt:maximum number of CNOT are17
+summary.txt:quantum_volume_n35_d8.qasm.txt:maximum overlap number is17
+summary.txt:quantum_volume_n35_d8.qasm.txt:maximum number of CNOT are17
+summary.txt:quantum_volume_n36_d8.qasm.txt:maximum overlap number is18
+summary.txt:quantum_volume_n36_d8.qasm.txt:maximum number of CNOT are18
+summary.txt:quantum_volume_n38_d38.qasm.txt:maximum overlap number is19
+summary.txt:quantum_volume_n38_d38.qasm.txt:maximum number of CNOT are19
+summary.txt:quantum_volume_n40_d32.qasm.txt:maximum overlap number is20
+summary.txt:quantum_volume_n40_d32.qasm.txt:maximum number of CNOT are20
+summary.txt:quantum_volume_n40_d40.qasm.txt:maximum overlap number is20
+summary.txt:quantum_volume_n40_d40.qasm.txt:maximum number of CNOT are20
+summary.txt:quantum_volume_n5_d2.qasm.txt:maximum overlap number is0
+summary.txt:quantum_volume_n5_d3.qasm.txt:maximum overlap number is2
+summary.txt:quantum_volume_n5_d4.qasm.txt:maximum overlap number is2
+summary.txt:quantum_volume_n5_d5.qasm.txt:maximum overlap number is2
+summary.txt:radd_250.qasm.txt:maximum overlap number is3
+summary.txt:radd_250.qasm.txt:maximum number of CNOT are3
+summary.txt:rd32_270.qasm.txt:maximum overlap number is0
+summary.txt:rd32_270.qasm.txt:maximum number of CNOT are1
+summary.txt:rd32-v0_66.qasm.txt:maximum overlap number is0
+summary.txt:rd32-v0_66.qasm.txt:maximum number of CNOT are1
+summary.txt:rd32-v1_68.qasm.txt:maximum overlap number is0
+summary.txt:rd32-v1_68.qasm.txt:maximum number of CNOT are1
+summary.txt:rd53_130.qasm.txt:maximum overlap number is2
+summary.txt:rd53_130.qasm.txt:maximum number of CNOT are3
+summary.txt:rd53_131.qasm.txt:maximum overlap number is3
+summary.txt:rd53_131.qasm.txt:maximum number of CNOT are3
+summary.txt:rd53_133.qasm.txt:maximum overlap number is3
+summary.txt:rd53_133.qasm.txt:maximum number of CNOT are3
+summary.txt:rd53_135.qasm.txt:maximum overlap number is2
+summary.txt:rd53_135.qasm.txt:maximum number of CNOT are3
+summary.txt:rd53_138.qasm.txt:maximum overlap number is2
+summary.txt:rd53_138.qasm.txt:maximum number of CNOT are2
+summary.txt:rd53_251.qasm.txt:maximum overlap number is2
+summary.txt:rd53_251.qasm.txt:maximum number of CNOT are2
+summary.txt:rd53_311.qasm.txt:maximum overlap number is2
+summary.txt:rd53_311.qasm.txt:maximum number of CNOT are2
+summary.txt:rd73_140.qasm.txt:maximum overlap number is2
+summary.txt:rd73_140.qasm.txt:maximum number of CNOT are2
+summary.txt:rd73_252.qasm.txt:maximum overlap number is3
+summary.txt:rd73_252.qasm.txt:maximum number of CNOT are3
+summary.txt:rd84_142.qasm.txt:maximum overlap number is3
+summary.txt:rd84_142.qasm.txt:maximum number of CNOT are3
+summary.txt:rd84_253.qasm.txt:maximum overlap number is3
+summary.txt:rd84_253.qasm.txt:maximum number of CNOT are3
+summary.txt:root_255.qasm.txt:maximum overlap number is4
+summary.txt:root_255.qasm.txt:maximum number of CNOT are4
+summary.txt:sao2_257.qasm.txt:maximum overlap number is3
+summary.txt:sao2_257.qasm.txt:maximum number of CNOT are3
+summary.txt:sat_n10_vars=4_clauses=4_clauselen=4_fb92209893909945c2bc1144e6972464.qasm.txt:maximum overlap number is2
+summary.txt:sat_n7_vars=3_clauses=3_clauselen=3_fd2ff8bf99b05c13216600154bc6bc21.qasm.txt:maximum overlap number is2
+summary.txt:sat_n7_vars=3_clauses=3_clauselen=3_fd2ff8bf99b05c13216600154bc6bc21.qasm.txt:maximum number of CNOT are2
+summary.txt:sf_274.qasm.txt:maximum overlap number is2
+summary.txt:sf_274.qasm.txt:maximum number of CNOT are2
+summary.txt:sf_276.qasm.txt:maximum overlap number is2
+summary.txt:sf_276.qasm.txt:maximum number of CNOT are2
+summary.txt:sqn_258.qasm.txt:maximum overlap number is3
+summary.txt:sqn_258.qasm.txt:maximum number of CNOT are3
+summary.txt:sqrt8_260.qasm.txt:maximum overlap number is3
+summary.txt:sqrt8_260.qasm.txt:maximum number of CNOT are3
+summary.txt:squar5_261.qasm.txt:maximum overlap number is2
+summary.txt:squar5_261.qasm.txt:maximum number of CNOT are2
+summary.txt:square_root_7.qasm.txt:maximum overlap number is7
+summary.txt:square_root_7.qasm.txt:maximum number of CNOT are7
+summary.txt:sym10_262.qasm.txt:maximum overlap number is4
+summary.txt:sym10_262.qasm.txt:maximum number of CNOT are4
+summary.txt:sym6_145.qasm.txt:maximum overlap number is3
+summary.txt:sym6_145.qasm.txt:maximum number of CNOT are3
+summary.txt:sym6_316.qasm.txt:maximum overlap number is2
+summary.txt:sym6_316.qasm.txt:maximum number of CNOT are2
+summary.txt:sym9_146.qasm.txt:maximum overlap number is2
+summary.txt:sym9_146.qasm.txt:maximum number of CNOT are2
+summary.txt:sym9_148.qasm.txt:maximum overlap number is3
+summary.txt:sym9_148.qasm.txt:maximum number of CNOT are3
+summary.txt:sym9_193.qasm.txt:maximum overlap number is4
+summary.txt:sym9_193.qasm.txt:maximum number of CNOT are4
+summary.txt:sys6-v0_111.qasm.txt:maximum overlap number is2
+summary.txt:sys6-v0_111.qasm.txt:maximum number of CNOT are3
+summary.txt:urf1_149.qasm.txt:maximum overlap number is3
+summary.txt:urf1_149.qasm.txt:maximum number of CNOT are3
+summary.txt:urf1_278.qasm.txt:maximum overlap number is3
+summary.txt:urf1_278.qasm.txt:maximum number of CNOT are4
+summary.txt:urf2_152.qasm.txt:maximum overlap number is2
+summary.txt:urf2_152.qasm.txt:maximum number of CNOT are3
+summary.txt:urf2_277.qasm.txt:maximum overlap number is3
+summary.txt:urf2_277.qasm.txt:maximum number of CNOT are4
+summary.txt:urf3_155.qasm.txt:maximum overlap number is4
+summary.txt:urf3_155.qasm.txt:maximum number of CNOT are4
+summary.txt:urf3_279.qasm.txt:maximum overlap number is4
+summary.txt:urf3_279.qasm.txt:maximum number of CNOT are4
+summary.txt:urf4_187.qasm.txt:maximum overlap number is4
+summary.txt:urf4_187.qasm.txt:maximum number of CNOT are4
+summary.txt:urf5_158.qasm.txt:maximum overlap number is3
+summary.txt:urf5_158.qasm.txt:maximum number of CNOT are3
+summary.txt:urf5_280.qasm.txt:maximum overlap number is3
+summary.txt:urf5_280.qasm.txt:maximum number of CNOT are4
+summary.txt:urf6_160.qasm.txt:maximum overlap number is3
+summary.txt:urf6_160.qasm.txt:maximum number of CNOT are3
+summary.txt:wim_266.qasm.txt:maximum overlap number is2
+summary.txt:wim_266.qasm.txt:maximum number of CNOT are3
+summary.txt:xor5_254.qasm.txt:maximum overlap number is0
+summary.txt:xor5_254.qasm.txt:maximum number of CNOT are1
+summary.txt:z4_268.qasm.txt:maximum overlap number is3
+summary.txt:z4_268.qasm.txt:maximum number of CNOT are3
+sym10_262.qasm.txt:maximum overlap number is4
+sym10_262.qasm.txt:maximum number of CNOT are4
+sym6_145.qasm.txt:maximum overlap number is3
+sym6_145.qasm.txt:maximum number of CNOT are3
+sym6_316.qasm.txt:maximum overlap number is2
+sym6_316.qasm.txt:maximum number of CNOT are2
+sym9_146.qasm.txt:maximum overlap number is2
+sym9_146.qasm.txt:maximum number of CNOT are2
+sym9_148.qasm.txt:maximum overlap number is3
+sym9_148.qasm.txt:maximum number of CNOT are3
+sym9_193.qasm.txt:maximum overlap number is4
+sym9_193.qasm.txt:maximum number of CNOT are4
+sys6-v0_111.qasm.txt:maximum overlap number is2
+sys6-v0_111.qasm.txt:maximum number of CNOT are3
+urf1_149.qasm.txt:maximum overlap number is3
+urf1_149.qasm.txt:maximum number of CNOT are3
+urf1_278.qasm.txt:maximum overlap number is3
+urf1_278.qasm.txt:maximum number of CNOT are4
+urf2_152.qasm.txt:maximum overlap number is2
+urf2_152.qasm.txt:maximum number of CNOT are3
+urf2_277.qasm.txt:maximum overlap number is3
+urf2_277.qasm.txt:maximum number of CNOT are4
+urf3_155.qasm.txt:maximum overlap number is4
+urf3_155.qasm.txt:maximum number of CNOT are4
+urf3_279.qasm.txt:maximum overlap number is4
+urf3_279.qasm.txt:maximum number of CNOT are4
+urf4_187.qasm.txt:maximum overlap number is4
+urf4_187.qasm.txt:maximum number of CNOT are4
+urf5_158.qasm.txt:maximum overlap number is3
+urf5_158.qasm.txt:maximum number of CNOT are3
+urf5_280.qasm.txt:maximum overlap number is3
+urf5_280.qasm.txt:maximum number of CNOT are4
+urf6_160.qasm.txt:maximum overlap number is3
+urf6_160.qasm.txt:maximum number of CNOT are3
+wim_266.qasm.txt:maximum overlap number is2
+wim_266.qasm.txt:maximum number of CNOT are3
+xor5_254.qasm.txt:maximum overlap number is0
+xor5_254.qasm.txt:maximum number of CNOT are1
+z4_268.qasm.txt:maximum overlap number is3
+z4_268.qasm.txt:maximum number of CNOT are3

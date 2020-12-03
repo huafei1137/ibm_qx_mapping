@@ -1,0 +1,354 @@
+the layer is: 0
+the control qubit is:-1the target qubit is:0
+the layer is: 1
+the control qubit is:0the target qubit is:1
+the layer is: 2
+the control qubit is:0the target qubit is:1
+the layer is: 3
+the control qubit is:0the target qubit is:2
+the control qubit is:-1the target qubit is:1
+the layer is: 4
+the control qubit is:0the target qubit is:2
+the layer is: 5
+the control qubit is:0the target qubit is:3
+the control qubit is:1the target qubit is:2
+the layer is: 6
+the control qubit is:0the target qubit is:3
+the control qubit is:1the target qubit is:2
+the layer is: 7
+the control qubit is:0the target qubit is:4
+the control qubit is:1the target qubit is:3
+the control qubit is:-1the target qubit is:2
+the layer is: 8
+the control qubit is:0the target qubit is:4
+the control qubit is:1the target qubit is:3
+the layer is: 9
+the control qubit is:0the target qubit is:5
+the control qubit is:1the target qubit is:4
+the control qubit is:2the target qubit is:3
+the layer is: 10
+the control qubit is:0the target qubit is:5
+the control qubit is:1the target qubit is:4
+the control qubit is:2the target qubit is:3
+the layer is: 11
+the control qubit is:0the target qubit is:6
+the control qubit is:1the target qubit is:5
+the control qubit is:2the target qubit is:4
+the control qubit is:-1the target qubit is:3
+the layer is: 12
+the control qubit is:0the target qubit is:6
+the control qubit is:1the target qubit is:5
+the control qubit is:2the target qubit is:4
+the layer is: 13
+the control qubit is:0the target qubit is:7
+the control qubit is:1the target qubit is:6
+the control qubit is:2the target qubit is:5
+the control qubit is:3the target qubit is:4
+the layer is: 14
+the control qubit is:0the target qubit is:7
+the control qubit is:1the target qubit is:6
+the control qubit is:2the target qubit is:5
+the control qubit is:3the target qubit is:4
+the layer is: 15
+the control qubit is:0the target qubit is:8
+the control qubit is:1the target qubit is:7
+the control qubit is:2the target qubit is:6
+the control qubit is:3the target qubit is:5
+the control qubit is:-1the target qubit is:4
+the layer is: 16
+the control qubit is:0the target qubit is:8
+the control qubit is:1the target qubit is:7
+the control qubit is:2the target qubit is:6
+the control qubit is:3the target qubit is:5
+the layer is: 17
+the control qubit is:0the target qubit is:9
+the control qubit is:1the target qubit is:8
+the control qubit is:2the target qubit is:7
+the control qubit is:3the target qubit is:6
+the control qubit is:4the target qubit is:5
+the layer is: 18
+the control qubit is:0the target qubit is:9
+the control qubit is:1the target qubit is:8
+the control qubit is:2the target qubit is:7
+the control qubit is:3the target qubit is:6
+the control qubit is:4the target qubit is:5
+the layer is: 19
+the control qubit is:0the target qubit is:10
+the control qubit is:1the target qubit is:9
+the control qubit is:2the target qubit is:8
+the control qubit is:3the target qubit is:7
+the control qubit is:4the target qubit is:6
+the control qubit is:-1the target qubit is:5
+the layer is: 20
+the control qubit is:0the target qubit is:10
+the control qubit is:1the target qubit is:9
+the control qubit is:2the target qubit is:8
+the control qubit is:3the target qubit is:7
+the control qubit is:4the target qubit is:6
+the layer is: 21
+the control qubit is:0the target qubit is:11
+the control qubit is:1the target qubit is:10
+the control qubit is:2the target qubit is:9
+the control qubit is:3the target qubit is:8
+the control qubit is:4the target qubit is:7
+the control qubit is:5the target qubit is:6
+the layer is: 22
+the control qubit is:0the target qubit is:11
+the control qubit is:1the target qubit is:10
+the control qubit is:2the target qubit is:9
+the control qubit is:3the target qubit is:8
+the control qubit is:4the target qubit is:7
+the control qubit is:5the target qubit is:6
+the layer is: 23
+the control qubit is:0the target qubit is:12
+the control qubit is:1the target qubit is:11
+the control qubit is:2the target qubit is:10
+the control qubit is:3the target qubit is:9
+the control qubit is:4the target qubit is:8
+the control qubit is:5the target qubit is:7
+the control qubit is:-1the target qubit is:6
+the layer is: 24
+the control qubit is:0the target qubit is:12
+the control qubit is:1the target qubit is:11
+the control qubit is:2the target qubit is:10
+the control qubit is:3the target qubit is:9
+the control qubit is:4the target qubit is:8
+the control qubit is:5the target qubit is:7
+the layer is: 25
+the control qubit is:0the target qubit is:13
+the control qubit is:1the target qubit is:12
+the control qubit is:2the target qubit is:11
+the control qubit is:3the target qubit is:10
+the control qubit is:4the target qubit is:9
+the control qubit is:5the target qubit is:8
+the control qubit is:6the target qubit is:7
+the layer is: 26
+the control qubit is:0the target qubit is:13
+the control qubit is:1the target qubit is:12
+the control qubit is:2the target qubit is:11
+the control qubit is:3the target qubit is:10
+the control qubit is:4the target qubit is:9
+the control qubit is:5the target qubit is:8
+the control qubit is:6the target qubit is:7
+the layer is: 27
+the control qubit is:0the target qubit is:14
+the control qubit is:1the target qubit is:13
+the control qubit is:2the target qubit is:12
+the control qubit is:3the target qubit is:11
+the control qubit is:4the target qubit is:10
+the control qubit is:5the target qubit is:9
+the control qubit is:6the target qubit is:8
+the control qubit is:-1the target qubit is:7
+the layer is: 28
+the control qubit is:0the target qubit is:14
+the control qubit is:1the target qubit is:13
+the control qubit is:2the target qubit is:12
+the control qubit is:3the target qubit is:11
+the control qubit is:4the target qubit is:10
+the control qubit is:5the target qubit is:9
+the control qubit is:6the target qubit is:8
+the layer is: 29
+the control qubit is:0the target qubit is:15
+the control qubit is:1the target qubit is:14
+the control qubit is:2the target qubit is:13
+the control qubit is:3the target qubit is:12
+the control qubit is:4the target qubit is:11
+the control qubit is:5the target qubit is:10
+the control qubit is:6the target qubit is:9
+the control qubit is:7the target qubit is:8
+the layer is: 30
+the control qubit is:0the target qubit is:15
+the control qubit is:1the target qubit is:14
+the control qubit is:2the target qubit is:13
+the control qubit is:3the target qubit is:12
+the control qubit is:4the target qubit is:11
+the control qubit is:5the target qubit is:10
+the control qubit is:6the target qubit is:9
+the control qubit is:7the target qubit is:8
+the layer is: 31
+the control qubit is:1the target qubit is:15
+the control qubit is:2the target qubit is:14
+the control qubit is:3the target qubit is:13
+the control qubit is:4the target qubit is:12
+the control qubit is:5the target qubit is:11
+the control qubit is:6the target qubit is:10
+the control qubit is:7the target qubit is:9
+the control qubit is:-1the target qubit is:8
+the control qubit is:-1the target qubit is:0
+the layer is: 32
+the control qubit is:1the target qubit is:15
+the control qubit is:2the target qubit is:14
+the control qubit is:3the target qubit is:13
+the control qubit is:4the target qubit is:12
+the control qubit is:5the target qubit is:11
+the control qubit is:6the target qubit is:10
+the control qubit is:7the target qubit is:9
+the layer is: 33
+the control qubit is:2the target qubit is:15
+the control qubit is:3the target qubit is:14
+the control qubit is:4the target qubit is:13
+the control qubit is:5the target qubit is:12
+the control qubit is:6the target qubit is:11
+the control qubit is:7the target qubit is:10
+the control qubit is:8the target qubit is:9
+the control qubit is:-1the target qubit is:1
+the layer is: 34
+the control qubit is:2the target qubit is:15
+the control qubit is:3the target qubit is:14
+the control qubit is:4the target qubit is:13
+the control qubit is:5the target qubit is:12
+the control qubit is:6the target qubit is:11
+the control qubit is:7the target qubit is:10
+the control qubit is:8the target qubit is:9
+the layer is: 35
+the control qubit is:3the target qubit is:15
+the control qubit is:4the target qubit is:14
+the control qubit is:5the target qubit is:13
+the control qubit is:6the target qubit is:12
+the control qubit is:7the target qubit is:11
+the control qubit is:8the target qubit is:10
+the control qubit is:-1the target qubit is:9
+the control qubit is:-1the target qubit is:2
+the layer is: 36
+the control qubit is:3the target qubit is:15
+the control qubit is:4the target qubit is:14
+the control qubit is:5the target qubit is:13
+the control qubit is:6the target qubit is:12
+the control qubit is:7the target qubit is:11
+the control qubit is:8the target qubit is:10
+the layer is: 37
+the control qubit is:4the target qubit is:15
+the control qubit is:5the target qubit is:14
+the control qubit is:6the target qubit is:13
+the control qubit is:7the target qubit is:12
+the control qubit is:8the target qubit is:11
+the control qubit is:9the target qubit is:10
+the control qubit is:-1the target qubit is:3
+the layer is: 38
+the control qubit is:4the target qubit is:15
+the control qubit is:5the target qubit is:14
+the control qubit is:6the target qubit is:13
+the control qubit is:7the target qubit is:12
+the control qubit is:8the target qubit is:11
+the control qubit is:9the target qubit is:10
+the layer is: 39
+the control qubit is:5the target qubit is:15
+the control qubit is:6the target qubit is:14
+the control qubit is:7the target qubit is:13
+the control qubit is:8the target qubit is:12
+the control qubit is:9the target qubit is:11
+the control qubit is:-1the target qubit is:10
+the control qubit is:-1the target qubit is:4
+the layer is: 40
+the control qubit is:5the target qubit is:15
+the control qubit is:6the target qubit is:14
+the control qubit is:7the target qubit is:13
+the control qubit is:8the target qubit is:12
+the control qubit is:9the target qubit is:11
+the layer is: 41
+the control qubit is:6the target qubit is:15
+the control qubit is:7the target qubit is:14
+the control qubit is:8the target qubit is:13
+the control qubit is:9the target qubit is:12
+the control qubit is:10the target qubit is:11
+the control qubit is:-1the target qubit is:5
+the layer is: 42
+the control qubit is:6the target qubit is:15
+the control qubit is:7the target qubit is:14
+the control qubit is:8the target qubit is:13
+the control qubit is:9the target qubit is:12
+the control qubit is:10the target qubit is:11
+the layer is: 43
+the control qubit is:7the target qubit is:15
+the control qubit is:8the target qubit is:14
+the control qubit is:9the target qubit is:13
+the control qubit is:10the target qubit is:12
+the control qubit is:-1the target qubit is:11
+the control qubit is:-1the target qubit is:6
+the layer is: 44
+the control qubit is:7the target qubit is:15
+the control qubit is:8the target qubit is:14
+the control qubit is:9the target qubit is:13
+the control qubit is:10the target qubit is:12
+the layer is: 45
+the control qubit is:8the target qubit is:15
+the control qubit is:9the target qubit is:14
+the control qubit is:10the target qubit is:13
+the control qubit is:11the target qubit is:12
+the control qubit is:-1the target qubit is:7
+the layer is: 46
+the control qubit is:8the target qubit is:15
+the control qubit is:9the target qubit is:14
+the control qubit is:10the target qubit is:13
+the control qubit is:11the target qubit is:12
+the layer is: 47
+the control qubit is:9the target qubit is:15
+the control qubit is:10the target qubit is:14
+the control qubit is:11the target qubit is:13
+the control qubit is:-1the target qubit is:12
+the control qubit is:-1the target qubit is:8
+the layer is: 48
+the control qubit is:9the target qubit is:15
+the control qubit is:10the target qubit is:14
+the control qubit is:11the target qubit is:13
+the layer is: 49
+the control qubit is:10the target qubit is:15
+the control qubit is:11the target qubit is:14
+the control qubit is:12the target qubit is:13
+the control qubit is:-1the target qubit is:9
+the layer is: 50
+the control qubit is:10the target qubit is:15
+the control qubit is:11the target qubit is:14
+the control qubit is:12the target qubit is:13
+the layer is: 51
+the control qubit is:11the target qubit is:15
+the control qubit is:12the target qubit is:14
+the control qubit is:-1the target qubit is:13
+the control qubit is:-1the target qubit is:10
+the layer is: 52
+the control qubit is:11the target qubit is:15
+the control qubit is:12the target qubit is:14
+the layer is: 53
+the control qubit is:12the target qubit is:15
+the control qubit is:13the target qubit is:14
+the control qubit is:-1the target qubit is:11
+the layer is: 54
+the control qubit is:12the target qubit is:15
+the control qubit is:13the target qubit is:14
+the layer is: 55
+the control qubit is:13the target qubit is:15
+the control qubit is:-1the target qubit is:14
+the control qubit is:-1the target qubit is:12
+the layer is: 56
+the control qubit is:13the target qubit is:15
+the layer is: 57
+the control qubit is:14the target qubit is:15
+the control qubit is:-1the target qubit is:13
+the layer is: 58
+the control qubit is:14the target qubit is:15
+the layer is: 59
+the control qubit is:-1the target qubit is:15
+the control qubit is:-1the target qubit is:14
+the layer is: 60
+the control qubit is:-1the target qubit is:15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+maximum number of CNOT are8
+  CriticalCycles : 320, Parallelcycles : 480
+the new initialmapping method Parallelcycles : 480
+ Heuristic-cycles with initial: 380
+ overlap-cycles with initial: 404

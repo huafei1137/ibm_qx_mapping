@@ -1,0 +1,625 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the0th layer:
+0th gate type is: U(1.570796, 0.000000, 3.141593)
+the1th layer:
+1th gate type is: CX
+the Mc are 0 Mt 1
+the2th layer:
+2th gate type is: CX
+the Mc are 0 Mt 1
+the3th layer:
+3th gate type is: CX
+the Mc are 0 Mt 2
+4th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 1
+the4th layer:
+5th gate type is: CX
+the Mc are 0 Mt 2
+the5th layer:
+6th gate type is: CX
+the Mc are 0 Mt 3
+7th gate type is: CX
+the Mc are 1 Mt 2
+the6th layer:
+8th gate type is: CX
+the Mc are 0 Mt 3
+9th gate type is: CX
+the Mc are 1 Mt 2
+the7th layer:
+10th gate type is: CX
+the Mc are 0 Mt 4
+11th gate type is: CX
+the Mc are 1 Mt 3
+12th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 2
+the8th layer:
+13th gate type is: CX
+the Mc are 0 Mt 4
+14th gate type is: CX
+the Mc are 1 Mt 3
+the9th layer:
+15th gate type is: CX
+the Mc are 0 Mt 5
+16th gate type is: CX
+the Mc are 1 Mt 4
+17th gate type is: CX
+the Mc are 2 Mt 3
+the10th layer:
+18th gate type is: CX
+the Mc are 0 Mt 5
+19th gate type is: CX
+the Mc are 1 Mt 4
+20th gate type is: CX
+the Mc are 2 Mt 3
+the11th layer:
+21th gate type is: CX
+the Mc are 0 Mt 6
+22th gate type is: CX
+the Mc are 1 Mt 5
+23th gate type is: CX
+the Mc are 2 Mt 4
+24th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 3
+the12th layer:
+25th gate type is: CX
+the Mc are 0 Mt 6
+26th gate type is: CX
+the Mc are 1 Mt 5
+27th gate type is: CX
+the Mc are 2 Mt 4
+the13th layer:
+28th gate type is: CX
+the Mc are 0 Mt 7
+29th gate type is: CX
+the Mc are 1 Mt 6
+30th gate type is: CX
+the Mc are 2 Mt 5
+31th gate type is: CX
+the Mc are 3 Mt 4
+the14th layer:
+32th gate type is: CX
+the Mc are 0 Mt 7
+33th gate type is: CX
+the Mc are 1 Mt 6
+34th gate type is: CX
+the Mc are 2 Mt 5
+35th gate type is: CX
+the Mc are 3 Mt 4
+the15th layer:
+36th gate type is: CX
+the Mc are 0 Mt 8
+37th gate type is: CX
+the Mc are 1 Mt 7
+38th gate type is: CX
+the Mc are 2 Mt 6
+39th gate type is: CX
+the Mc are 3 Mt 5
+40th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 4
+the16th layer:
+41th gate type is: CX
+the Mc are 0 Mt 8
+42th gate type is: CX
+the Mc are 1 Mt 7
+43th gate type is: CX
+the Mc are 2 Mt 6
+44th gate type is: CX
+the Mc are 3 Mt 5
+the17th layer:
+45th gate type is: CX
+the Mc are 0 Mt 9
+46th gate type is: CX
+the Mc are 1 Mt 8
+47th gate type is: CX
+the Mc are 2 Mt 7
+48th gate type is: CX
+the Mc are 3 Mt 6
+49th gate type is: CX
+the Mc are 4 Mt 5
+the18th layer:
+50th gate type is: CX
+the Mc are 0 Mt 9
+51th gate type is: CX
+the Mc are 1 Mt 8
+52th gate type is: CX
+the Mc are 2 Mt 7
+53th gate type is: CX
+the Mc are 3 Mt 6
+54th gate type is: CX
+the Mc are 4 Mt 5
+the19th layer:
+55th gate type is: CX
+the Mc are 0 Mt 10
+56th gate type is: CX
+the Mc are 1 Mt 9
+57th gate type is: CX
+the Mc are 2 Mt 8
+58th gate type is: CX
+the Mc are 3 Mt 7
+59th gate type is: CX
+the Mc are 4 Mt 6
+60th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 5
+the20th layer:
+61th gate type is: CX
+the Mc are 0 Mt 10
+62th gate type is: CX
+the Mc are 1 Mt 9
+63th gate type is: CX
+the Mc are 2 Mt 8
+64th gate type is: CX
+the Mc are 3 Mt 7
+65th gate type is: CX
+the Mc are 4 Mt 6
+the21th layer:
+66th gate type is: CX
+the Mc are 0 Mt 11
+67th gate type is: CX
+the Mc are 1 Mt 10
+68th gate type is: CX
+the Mc are 2 Mt 9
+69th gate type is: CX
+the Mc are 3 Mt 8
+70th gate type is: CX
+the Mc are 4 Mt 7
+71th gate type is: CX
+the Mc are 5 Mt 6
+the22th layer:
+72th gate type is: CX
+the Mc are 0 Mt 11
+73th gate type is: CX
+the Mc are 1 Mt 10
+74th gate type is: CX
+the Mc are 2 Mt 9
+75th gate type is: CX
+the Mc are 3 Mt 8
+76th gate type is: CX
+the Mc are 4 Mt 7
+77th gate type is: CX
+the Mc are 5 Mt 6
+the23th layer:
+78th gate type is: CX
+the Mc are 0 Mt 12
+79th gate type is: CX
+the Mc are 1 Mt 11
+80th gate type is: CX
+the Mc are 2 Mt 10
+81th gate type is: CX
+the Mc are 3 Mt 9
+82th gate type is: CX
+the Mc are 4 Mt 8
+83th gate type is: CX
+the Mc are 5 Mt 7
+84th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 6
+the24th layer:
+85th gate type is: CX
+the Mc are 0 Mt 12
+86th gate type is: CX
+the Mc are 1 Mt 11
+87th gate type is: CX
+the Mc are 2 Mt 10
+88th gate type is: CX
+the Mc are 3 Mt 9
+89th gate type is: CX
+the Mc are 4 Mt 8
+90th gate type is: CX
+the Mc are 5 Mt 7
+the25th layer:
+91th gate type is: CX
+the Mc are 0 Mt 13
+92th gate type is: CX
+the Mc are 1 Mt 12
+93th gate type is: CX
+the Mc are 2 Mt 11
+94th gate type is: CX
+the Mc are 3 Mt 10
+95th gate type is: CX
+the Mc are 4 Mt 9
+96th gate type is: CX
+the Mc are 5 Mt 8
+97th gate type is: CX
+the Mc are 6 Mt 7
+the26th layer:
+98th gate type is: CX
+the Mc are 0 Mt 13
+99th gate type is: CX
+the Mc are 1 Mt 12
+100th gate type is: CX
+the Mc are 2 Mt 11
+101th gate type is: CX
+the Mc are 3 Mt 10
+102th gate type is: CX
+the Mc are 4 Mt 9
+103th gate type is: CX
+the Mc are 5 Mt 8
+104th gate type is: CX
+the Mc are 6 Mt 7
+the27th layer:
+105th gate type is: CX
+the Mc are 0 Mt 14
+106th gate type is: CX
+the Mc are 1 Mt 13
+107th gate type is: CX
+the Mc are 2 Mt 12
+108th gate type is: CX
+the Mc are 3 Mt 11
+109th gate type is: CX
+the Mc are 4 Mt 10
+110th gate type is: CX
+the Mc are 5 Mt 9
+111th gate type is: CX
+the Mc are 6 Mt 8
+112th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 7
+the28th layer:
+113th gate type is: CX
+the Mc are 0 Mt 14
+114th gate type is: CX
+the Mc are 1 Mt 13
+115th gate type is: CX
+the Mc are 2 Mt 12
+116th gate type is: CX
+the Mc are 3 Mt 11
+117th gate type is: CX
+the Mc are 4 Mt 10
+118th gate type is: CX
+the Mc are 5 Mt 9
+119th gate type is: CX
+the Mc are 6 Mt 8
+the29th layer:
+120th gate type is: CX
+the Mc are 0 Mt 15
+121th gate type is: CX
+the Mc are 1 Mt 14
+122th gate type is: CX
+the Mc are 2 Mt 13
+123th gate type is: CX
+the Mc are 3 Mt 12
+124th gate type is: CX
+the Mc are 4 Mt 11
+125th gate type is: CX
+the Mc are 5 Mt 10
+126th gate type is: CX
+the Mc are 6 Mt 9
+127th gate type is: CX
+the Mc are 7 Mt 8
+the30th layer:
+128th gate type is: CX
+the Mc are 0 Mt 15
+129th gate type is: CX
+the Mc are 1 Mt 14
+130th gate type is: CX
+the Mc are 2 Mt 13
+131th gate type is: CX
+the Mc are 3 Mt 12
+132th gate type is: CX
+the Mc are 4 Mt 11
+133th gate type is: CX
+the Mc are 5 Mt 10
+134th gate type is: CX
+the Mc are 6 Mt 9
+135th gate type is: CX
+the Mc are 7 Mt 8
+the31th layer:
+136th gate type is: CX
+the Mc are 1 Mt 15
+137th gate type is: CX
+the Mc are 2 Mt 14
+138th gate type is: CX
+the Mc are 3 Mt 13
+139th gate type is: CX
+the Mc are 4 Mt 12
+140th gate type is: CX
+the Mc are 5 Mt 11
+141th gate type is: CX
+the Mc are 6 Mt 10
+142th gate type is: CX
+the Mc are 7 Mt 9
+143th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 8
+144th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 0
+the32th layer:
+145th gate type is: CX
+the Mc are 1 Mt 15
+146th gate type is: CX
+the Mc are 2 Mt 14
+147th gate type is: CX
+the Mc are 3 Mt 13
+148th gate type is: CX
+the Mc are 4 Mt 12
+149th gate type is: CX
+the Mc are 5 Mt 11
+150th gate type is: CX
+the Mc are 6 Mt 10
+151th gate type is: CX
+the Mc are 7 Mt 9
+the33th layer:
+152th gate type is: CX
+the Mc are 2 Mt 15
+153th gate type is: CX
+the Mc are 3 Mt 14
+154th gate type is: CX
+the Mc are 4 Mt 13
+155th gate type is: CX
+the Mc are 5 Mt 12
+156th gate type is: CX
+the Mc are 6 Mt 11
+157th gate type is: CX
+the Mc are 7 Mt 10
+158th gate type is: CX
+the Mc are 8 Mt 9
+159th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 1
+the34th layer:
+160th gate type is: CX
+the Mc are 2 Mt 15
+161th gate type is: CX
+the Mc are 3 Mt 14
+162th gate type is: CX
+the Mc are 4 Mt 13
+163th gate type is: CX
+the Mc are 5 Mt 12
+164th gate type is: CX
+the Mc are 6 Mt 11
+165th gate type is: CX
+the Mc are 7 Mt 10
+166th gate type is: CX
+the Mc are 8 Mt 9
+the35th layer:
+167th gate type is: CX
+the Mc are 3 Mt 15
+168th gate type is: CX
+the Mc are 4 Mt 14
+169th gate type is: CX
+the Mc are 5 Mt 13
+170th gate type is: CX
+the Mc are 6 Mt 12
+171th gate type is: CX
+the Mc are 7 Mt 11
+172th gate type is: CX
+the Mc are 8 Mt 10
+173th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 9
+174th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 2
+the36th layer:
+175th gate type is: CX
+the Mc are 3 Mt 15
+176th gate type is: CX
+the Mc are 4 Mt 14
+177th gate type is: CX
+the Mc are 5 Mt 13
+178th gate type is: CX
+the Mc are 6 Mt 12
+179th gate type is: CX
+the Mc are 7 Mt 11
+180th gate type is: CX
+the Mc are 8 Mt 10
+the37th layer:
+181th gate type is: CX
+the Mc are 4 Mt 15
+182th gate type is: CX
+the Mc are 5 Mt 14
+183th gate type is: CX
+the Mc are 6 Mt 13
+184th gate type is: CX
+the Mc are 7 Mt 12
+185th gate type is: CX
+the Mc are 8 Mt 11
+186th gate type is: CX
+the Mc are 9 Mt 10
+187th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 3
+the38th layer:
+188th gate type is: CX
+the Mc are 4 Mt 15
+189th gate type is: CX
+the Mc are 5 Mt 14
+190th gate type is: CX
+the Mc are 6 Mt 13
+191th gate type is: CX
+the Mc are 7 Mt 12
+192th gate type is: CX
+the Mc are 8 Mt 11
+193th gate type is: CX
+the Mc are 9 Mt 10
+the39th layer:
+194th gate type is: CX
+the Mc are 5 Mt 15
+195th gate type is: CX
+the Mc are 6 Mt 14
+196th gate type is: CX
+the Mc are 7 Mt 13
+197th gate type is: CX
+the Mc are 8 Mt 12
+198th gate type is: CX
+the Mc are 9 Mt 11
+199th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 10
+200th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 4
+the40th layer:
+201th gate type is: CX
+the Mc are 5 Mt 15
+202th gate type is: CX
+the Mc are 6 Mt 14
+203th gate type is: CX
+the Mc are 7 Mt 13
+204th gate type is: CX
+the Mc are 8 Mt 12
+205th gate type is: CX
+the Mc are 9 Mt 11
+the41th layer:
+206th gate type is: CX
+the Mc are 6 Mt 15
+207th gate type is: CX
+the Mc are 7 Mt 14
+208th gate type is: CX
+the Mc are 8 Mt 13
+209th gate type is: CX
+the Mc are 9 Mt 12
+210th gate type is: CX
+the Mc are 10 Mt 11
+211th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 5
+the42th layer:
+212th gate type is: CX
+the Mc are 6 Mt 15
+213th gate type is: CX
+the Mc are 7 Mt 14
+214th gate type is: CX
+the Mc are 8 Mt 13
+215th gate type is: CX
+the Mc are 9 Mt 12
+216th gate type is: CX
+the Mc are 10 Mt 11
+the43th layer:
+217th gate type is: CX
+the Mc are 7 Mt 15
+218th gate type is: CX
+the Mc are 8 Mt 14
+219th gate type is: CX
+the Mc are 9 Mt 13
+220th gate type is: CX
+the Mc are 10 Mt 12
+221th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 11
+222th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 6
+the44th layer:
+223th gate type is: CX
+the Mc are 7 Mt 15
+224th gate type is: CX
+the Mc are 8 Mt 14
+225th gate type is: CX
+the Mc are 9 Mt 13
+226th gate type is: CX
+the Mc are 10 Mt 12
+the45th layer:
+227th gate type is: CX
+the Mc are 8 Mt 15
+228th gate type is: CX
+the Mc are 9 Mt 14
+229th gate type is: CX
+the Mc are 10 Mt 13
+230th gate type is: CX
+the Mc are 11 Mt 12
+231th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 7
+the46th layer:
+232th gate type is: CX
+the Mc are 8 Mt 15
+233th gate type is: CX
+the Mc are 9 Mt 14
+234th gate type is: CX
+the Mc are 10 Mt 13
+235th gate type is: CX
+the Mc are 11 Mt 12
+the47th layer:
+236th gate type is: CX
+the Mc are 9 Mt 15
+237th gate type is: CX
+the Mc are 10 Mt 14
+238th gate type is: CX
+the Mc are 11 Mt 13
+239th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 12
+240th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 8
+the48th layer:
+241th gate type is: CX
+the Mc are 9 Mt 15
+242th gate type is: CX
+the Mc are 10 Mt 14
+243th gate type is: CX
+the Mc are 11 Mt 13
+the49th layer:
+244th gate type is: CX
+the Mc are 10 Mt 15
+245th gate type is: CX
+the Mc are 11 Mt 14
+246th gate type is: CX
+the Mc are 12 Mt 13
+247th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 9
+the50th layer:
+248th gate type is: CX
+the Mc are 10 Mt 15
+249th gate type is: CX
+the Mc are 11 Mt 14
+250th gate type is: CX
+the Mc are 12 Mt 13
+the51th layer:
+251th gate type is: CX
+the Mc are 11 Mt 15
+252th gate type is: CX
+the Mc are 12 Mt 14
+253th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 13
+254th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 10
+the52th layer:
+255th gate type is: CX
+the Mc are 11 Mt 15
+256th gate type is: CX
+the Mc are 12 Mt 14
+the53th layer:
+257th gate type is: CX
+the Mc are 12 Mt 15
+258th gate type is: CX
+the Mc are 13 Mt 14
+259th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 11
+the54th layer:
+260th gate type is: CX
+the Mc are 12 Mt 15
+261th gate type is: CX
+the Mc are 13 Mt 14
+the55th layer:
+262th gate type is: CX
+the Mc are 13 Mt 15
+263th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 14
+264th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 12
+the56th layer:
+265th gate type is: CX
+the Mc are 13 Mt 15
+the57th layer:
+266th gate type is: CX
+the Mc are 14 Mt 15
+267th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 13
+the58th layer:
+268th gate type is: CX
+the Mc are 14 Mt 15
+the59th layer:
+269th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 15
+270th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 14
+the60th layer:
+271th gate type is: U(1.570796, 0.000000, 3.141593)
+the Mc are -1 Mt 15
+maximum number of CNOT are8
+  CriticalCycles : 320, Parallelcycles : 480
+the new initialmapping method Parallelcycles : 480
+ Heuristic-cycles with initial: 380
+ overlap-cycles with initial: 404

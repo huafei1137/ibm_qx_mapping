@@ -1,0 +1,3 @@
+maximum number of CNOT are3
+  CriticalCycles : 7325, Parallelcycles : 7325
+ Heuristic-cycles: 7325

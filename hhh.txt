@@ -1,0 +1,1087 @@
+mod5d2_64.qasm.txt
+maximum number of CNOT are1
+
+the critical path is32  our braiding schedule cycle is32
+
+hwb6_56.qasm.txt
+maximum number of CNOT are3
+
+the critical path is3736  our braiding schedule cycle is3736
+
+decod24-enable_126.qasm.txt
+maximum number of CNOT are2
+
+the critical path is190  our braiding schedule cycle is190
+
+squar5_261.qasm.txt
+maximum number of CNOT are2
+
+the critical path is1049  our braiding schedule cycle is1049
+
+alu-bdd_288.qasm.txt
+maximum number of CNOT are2
+
+the critical path is48  our braiding schedule cycle is48
+
+rd53_135.qasm.txt
+maximum number of CNOT are3
+
+the critical path is159  our braiding schedule cycle is159
+
+4mod7-v1_96.qasm.txt
+maximum number of CNOT are2
+
+the critical path is94  our braiding schedule cycle is94
+
+cc_n16.qasm.txt
+maximum number of CNOT are1
+
+the critical path is20  our braiding schedule cycle is20
+
+ex2_227.qasm.txt
+maximum number of CNOT are2
+
+the critical path is355  our braiding schedule cycle is355
+
+rd84_142.qasm.txt
+maximum number of CNOT are3
+
+the critical path is110  our braiding schedule cycle is110
+
+sat_n10_vars=4_clauses=4_clauselen=4_fb92209893909945c2bc1144e6972464.qasm.txt
+maximum number of CNOT are2
+
+the critical path is409  our braiding schedule cycle is409
+
+miller_11.qasm.txt
+maximum number of CNOT are1
+
+the critical path is29  our braiding schedule cycle is29
+
+urf5_280.qasm.txt
+maximum number of CNOT are3
+
+the critical path is27822  our braiding schedule cycle is27825
+
+the critical path is27822  our braiding schedule cycle is27825
+
+3.0
+4gt10-v1_81.qasm.txt
+maximum number of CNOT are2
+
+the critical path is84  our braiding schedule cycle is84
+
+cc_n15.qasm.txt
+maximum number of CNOT are1
+
+the critical path is19  our braiding schedule cycle is19
+
+bv_n13.qasm.txt
+maximum number of CNOT are1
+
+the critical path is15  our braiding schedule cycle is15
+
+hwb8_113.qasm.txt
+maximum number of CNOT are4
+
+the critical path is38717  our braiding schedule cycle is38717
+
+qft_n20.qasm.txt
+maximum number of CNOT are10
+
+the critical path is149  our braiding schedule cycle is176
+
+the critical path is149  our braiding schedule cycle is176
+
+27.0
+4gt4-v0_73.qasm.txt
+maximum number of CNOT are2
+
+the critical path is227  our braiding schedule cycle is227
+
+cm152a_212.qasm.txt
+maximum number of CNOT are3
+
+the critical path is684  our braiding schedule cycle is684
+
+4gt4-v0_79.qasm.txt
+maximum number of CNOT are2
+
+the critical path is132  our braiding schedule cycle is132
+
+bv_n18.qasm.txt
+maximum number of CNOT are1
+
+the critical path is20  our braiding schedule cycle is20
+
+mod10_176.qasm.txt
+maximum number of CNOT are2
+
+the critical path is101  our braiding schedule cycle is101
+
+cc_n17.qasm.txt
+maximum number of CNOT are1
+
+the critical path is21  our braiding schedule cycle is21
+
+urf2_277.qasm.txt
+maximum number of CNOT are4
+
+the critical path is11390  our braiding schedule cycle is11391
+
+the critical path is11390  our braiding schedule cycle is11391
+
+1.0
+qft_n18.qasm.txt
+maximum number of CNOT are9
+
+the critical path is133  our braiding schedule cycle is147
+
+the critical path is133  our braiding schedule cycle is147
+
+14.0
+cm82a_208.qasm.txt
+maximum number of CNOT are2
+
+the critical path is337  our braiding schedule cycle is337
+
+sqn_258.qasm.txt
+maximum number of CNOT are3
+
+the critical path is5458  our braiding schedule cycle is5458
+
+majority_239.qasm.txt
+maximum number of CNOT are3
+
+the critical path is344  our braiding schedule cycle is345
+
+the critical path is344  our braiding schedule cycle is345
+
+1.0
+3_17_13.qasm.txt
+maximum number of CNOT are7
+
+the critical path is5  our braiding schedule cycle is5
+
+sys6-v0_111.qasm.txt
+maximum number of CNOT are2
+
+the critical path is75  our braiding schedule cycle is75
+
+xor5_254.qasm.txt
+maximum number of CNOT are1
+
+the critical path is5  our braiding schedule cycle is5
+
+ham15_107.qasm.txt
+maximum number of CNOT are6
+
+the critical path is4819  our braiding schedule cycle is4819
+
+rd53_133.qasm.txt
+maximum number of CNOT are3
+
+the critical path is327  our braiding schedule cycle is327
+
+bv_n19.qasm.txt
+maximum number of CNOT are1
+
+the critical path is21  our braiding schedule cycle is21
+
+cc_n11.qasm.txt
+maximum number of CNOT are1
+
+the critical path is15  our braiding schedule cycle is15
+
+sf_274.qasm.txt
+maximum number of CNOT are2
+
+the critical path is436  our braiding schedule cycle is436
+
+4gt5_77.qasm.txt
+maximum number of CNOT are2
+
+the critical path is74  our braiding schedule cycle is74
+
+adr4_197.qasm.txt
+maximum number of CNOT are3
+
+the critical path is1839  our braiding schedule cycle is1840
+
+the critical path is1839  our braiding schedule cycle is1840
+
+1.0
+sat_n7_vars=3_clauses=3_clauselen=3_fd2ff8bf99b05c13216600154bc6bc21.qasm.txt
+maximum number of CNOT are2
+
+the critical path is160  our braiding schedule cycle is160
+
+mod5d1_63.qasm.txt
+maximum number of CNOT are2
+
+the critical path is13  our braiding schedule cycle is13
+
+C17_204.qasm.txt
+maximum number of CNOT are2
+
+the critical path is253  our braiding schedule cycle is253
+
+rd53_131.qasm.txt
+maximum number of CNOT are3
+
+the critical path is261  our braiding schedule cycle is261
+
+one-two-three-v0_98.qasm.txt
+maximum number of CNOT are2
+
+the critical path is82  our braiding schedule cycle is82
+
+cnt3-5_179.qasm.txt
+maximum number of CNOT are5
+
+the critical path is61  our braiding schedule cycle is61
+
+root_255.qasm.txt
+maximum number of CNOT are3
+
+the critical path is8835  our braiding schedule cycle is8836
+
+the critical path is8835  our braiding schedule cycle is8836
+
+1.0
+4gt12-v0_86.qasm.txt
+maximum number of CNOT are2
+
+the critical path is135  our braiding schedule cycle is135
+
+cm42a_207.qasm.txt
+maximum number of CNOT are2
+
+the critical path is940  our braiding schedule cycle is940
+
+rd73_252.qasm.txt
+maximum number of CNOT are3
+
+the critical path is2867  our braiding schedule cycle is2867
+
+alu-v3_35.qasm.txt
+maximum number of CNOT are2
+
+the critical path is22  our braiding schedule cycle is22
+
+alu-v1_28.qasm.txt
+maximum number of CNOT are2
+
+the critical path is22  our braiding schedule cycle is22
+
+qft_n15.qasm.txt
+maximum number of CNOT are7
+
+the critical path is109  our braiding schedule cycle is117
+
+the critical path is109  our braiding schedule cycle is117
+
+8.0
+4mod5-bdd_287.qasm.txt
+maximum number of CNOT are1
+
+the critical path is41  our braiding schedule cycle is41
+
+urf1_278.qasm.txt
+maximum number of CNOT are4
+
+the critical path is30955  our braiding schedule cycle is30957
+
+the critical path is30955  our braiding schedule cycle is30957
+
+2.0
+rd53_251.qasm.txt
+maximum number of CNOT are2
+
+the critical path is712  our braiding schedule cycle is712
+
+hwb9_119.qasm.txt
+maximum number of CNOT are4
+
+the critical path is116199  our braiding schedule cycle is116203
+
+the critical path is116199  our braiding schedule cycle is116203
+
+4.0
+rd53_138.qasm.txt
+maximum number of CNOT are2
+
+the critical path is56  our braiding schedule cycle is56
+
+urf5_158.qasm.txt
+maximum number of CNOT are3
+
+the critical path is89145  our braiding schedule cycle is89145
+
+mod8-10_178.qasm.txt
+maximum number of CNOT are2
+
+the critical path is193  our braiding schedule cycle is193
+
+4gt12-v1_89.qasm.txt
+maximum number of CNOT are2
+
+the critical path is130  our braiding schedule cycle is130
+
+qft_n10.qasm.txt
+maximum number of CNOT are5
+
+the critical path is69  our braiding schedule cycle is71
+
+the critical path is69  our braiding schedule cycle is71
+
+2.0
+decod24-v2_43.qasm.txt
+maximum number of CNOT are1
+
+the critical path is30  our braiding schedule cycle is30
+
+ising_model_13.qasm.txt
+maximum number of CNOT are6
+
+the critical path is71  our braiding schedule cycle is72
+
+the critical path is71  our braiding schedule cycle is72
+
+1.0
+sao2_257.qasm.txt
+maximum number of CNOT are3
+
+the critical path is19563  our braiding schedule cycle is19574
+
+the critical path is19563  our braiding schedule cycle is19574
+
+11.0
+cc_n10.qasm.txt
+maximum number of CNOT are1
+
+the critical path is14  our braiding schedule cycle is14
+
+4mod5-v1_23.qasm.txt
+maximum number of CNOT are1
+
+the critical path is41  our braiding schedule cycle is41
+
+4gt4-v0_78.qasm.txt
+maximum number of CNOT are2
+
+the critical path is137  our braiding schedule cycle is137
+
+4mod7-v0_94.qasm.txt
+maximum number of CNOT are2
+
+the critical path is92  our braiding schedule cycle is92
+
+4mod5-v1_22.qasm.txt
+maximum number of CNOT are2
+
+the critical path is12  our braiding schedule cycle is12
+
+alu-v4_36.qasm.txt
+maximum number of CNOT are2
+
+the critical path is66  our braiding schedule cycle is66
+
+qft_n14.qasm.txt
+maximum number of CNOT are7
+
+the critical path is101  our braiding schedule cycle is107
+
+the critical path is101  our braiding schedule cycle is107
+
+6.0
+bv_n16.qasm.txt
+maximum number of CNOT are1
+
+the critical path is18  our braiding schedule cycle is18
+
+plus63mod4096_163.qasm.txt
+maximum number of CNOT are3
+
+the critical path is72246  our braiding schedule cycle is72261
+
+the critical path is72246  our braiding schedule cycle is72261
+
+15.0
+qft_n17.qasm.txt
+maximum number of CNOT are8
+
+the critical path is125  our braiding schedule cycle is137
+
+the critical path is125  our braiding schedule cycle is137
+
+12.0
+cc_n18.qasm.txt
+maximum number of CNOT are1
+
+the critical path is22  our braiding schedule cycle is22
+
+decod24-v1_41.qasm.txt
+maximum number of CNOT are2
+
+the critical path is50  our braiding schedule cycle is50
+
+qft_16.qasm.txt
+maximum number of CNOT are5
+
+the critical path is105  our braiding schedule cycle is110
+
+the critical path is105  our braiding schedule cycle is110
+
+5.0
+4mod5-v0_18.qasm.txt
+maximum number of CNOT are1
+
+the critical path is40  our braiding schedule cycle is40
+
+4_49_16.qasm.txt
+maximum number of CNOT are2
+
+the critical path is8  our braiding schedule cycle is8
+
+qft_n16.qasm.txt
+maximum number of CNOT are8
+
+the critical path is117  our braiding schedule cycle is129
+
+the critical path is117  our braiding schedule cycle is129
+
+12.0
+misex1_241.qasm.txt
+maximum number of CNOT are2
+
+the critical path is2676  our braiding schedule cycle is2676
+
+decod24-v3_45.qasm.txt
+maximum number of CNOT are2
+
+the critical path is84  our braiding schedule cycle is84
+
+sat_n9_vars=4_clauses=3_clauselen=4_f08ded5404079f6332615c302267c9d9.qasm.txt
+4gt5_75.qasm.txt
+maximum number of CNOT are2
+
+the critical path is47  our braiding schedule cycle is47
+
+ising_model_16.qasm.txt
+maximum number of CNOT are8
+
+the critical path is71  our braiding schedule cycle is72
+
+the critical path is71  our braiding schedule cycle is72
+
+1.0
+bv_n15.qasm.txt
+maximum number of CNOT are1
+
+the critical path is17  our braiding schedule cycle is17
+
+alu-v4_37.qasm.txt
+maximum number of CNOT are2
+
+the critical path is22  our braiding schedule cycle is22
+
+4gt13-v1_93.qasm.txt
+maximum number of CNOT are2
+
+the critical path is39  our braiding schedule cycle is39
+
+urf3_279.qasm.txt
+maximum number of CNOT are4
+
+the critical path is70702  our braiding schedule cycle is70710
+
+the critical path is70702  our braiding schedule cycle is70710
+
+8.0
+rd32_270.qasm.txt
+maximum number of CNOT are1
+
+the critical path is47  our braiding schedule cycle is47
+
+sym9_148.qasm.txt
+maximum number of CNOT are3
+
+the critical path is12087  our braiding schedule cycle is12088
+
+the critical path is12087  our braiding schedule cycle is12088
+
+1.0
+life_238.qasm.txt
+maximum number of CNOT are4
+
+the critical path is12511  our braiding schedule cycle is12531
+
+the critical path is12511  our braiding schedule cycle is12531
+
+20.0
+4mod5-v1_24.qasm.txt
+maximum number of CNOT are1
+
+the critical path is21  our braiding schedule cycle is21
+
+bv_n17.qasm.txt
+maximum number of CNOT are1
+
+the critical path is19  our braiding schedule cycle is19
+
+urf6_160.qasm.txt
+maximum number of CNOT are3
+
+the critical path is93645  our braiding schedule cycle is93645
+
+dc1_220.qasm.txt
+maximum number of CNOT are2
+
+the critical path is1038  our braiding schedule cycle is1038
+
+square_root_7.qasm.txt
+maximum number of CNOT are7
+
+the critical path is3847  our braiding schedule cycle is3849
+
+the critical path is3847  our braiding schedule cycle is3849
+
+2.0
+qft_10.qasm.txt
+maximum number of CNOT are3
+
+the critical path is63  our braiding schedule cycle is64
+
+the critical path is63  our braiding schedule cycle is64
+
+1.0
+dist_223.qasm.txt
+maximum number of CNOT are4
+
+the critical path is19694  our braiding schedule cycle is19700
+
+the critical path is19694  our braiding schedule cycle is19700
+
+6.0
+urf1_149.qasm.txt
+maximum number of CNOT are3
+
+the critical path is99585  our braiding schedule cycle is99585
+
+mini-alu_167.qasm.txt
+maximum number of CNOT are2
+
+the critical path is162  our braiding schedule cycle is162
+
+inc_237.qasm.txt
+maximum number of CNOT are3
+
+the critical path is5863  our braiding schedule cycle is5864
+
+the critical path is5863  our braiding schedule cycle is5864
+
+1.0
+9symml_195.qasm.txt
+maximum number of CNOT are4
+
+the critical path is19235  our braiding schedule cycle is19257
+
+the critical path is19235  our braiding schedule cycle is19257
+
+22.0
+3_18_13.qasm.txt
+4gt4-v0_80.qasm.txt
+maximum number of CNOT are2
+
+the critical path is101  our braiding schedule cycle is101
+
+hwb7_59.qasm.txt
+maximum number of CNOT are3
+
+the critical path is13437  our braiding schedule cycle is13438
+
+the critical path is13437  our braiding schedule cycle is13438
+
+1.0
+rd73_140.qasm.txt
+maximum number of CNOT are2
+
+the critical path is92  our braiding schedule cycle is92
+
+urf4_187.qasm.txt
+maximum number of CNOT are4
+
+the critical path is264330  our braiding schedule cycle is264331
+
+the critical path is264330  our braiding schedule cycle is264331
+
+1.0
+pm1_249.qasm.txt
+maximum number of CNOT are2
+
+the critical path is940  our braiding schedule cycle is940
+
+ground_state_estimation_10.qasm.txt
+maximum number of CNOT are3
+
+the critical path is245614  our braiding schedule cycle is245614
+
+urf3_155.qasm.txt
+maximum number of CNOT are4
+
+the critical path is229365  our braiding schedule cycle is229369
+
+the critical path is229365  our braiding schedule cycle is229369
+
+4.0
+ex3_229.qasm.txt
+maximum number of CNOT are2
+
+the critical path is226  our braiding schedule cycle is226
+
+alu-v0_26.qasm.txt
+maximum number of CNOT are2
+
+the critical path is49  our braiding schedule cycle is49
+
+sym10_262.qasm.txt
+maximum number of CNOT are4
+
+the critical path is35572  our braiding schedule cycle is35624
+
+the critical path is35572  our braiding schedule cycle is35624
+
+52.0
+mlp4_245.qasm.txt
+maximum number of CNOT are4
+
+the critical path is10328  our braiding schedule cycle is10331
+
+the critical path is10328  our braiding schedule cycle is10331
+
+3.0
+alu-v2_30.qasm.txt
+maximum number of CNOT are2
+
+the critical path is285  our braiding schedule cycle is285
+
+bv_n11.qasm.txt
+maximum number of CNOT are1
+
+the critical path is13  our braiding schedule cycle is13
+
+4gt4-v0_72.qasm.txt
+maximum number of CNOT are2
+
+the critical path is137  our braiding schedule cycle is137
+
+sqrt8_260.qasm.txt
+maximum number of CNOT are3
+
+the critical path is1659  our braiding schedule cycle is1659
+
+bv_n10.qasm.txt
+maximum number of CNOT are1
+
+the critical path is12  our braiding schedule cycle is12
+
+rd32-v0_66.qasm.txt
+maximum number of CNOT are1
+
+the critical path is20  our braiding schedule cycle is20
+
+one-two-three-v3_101.qasm.txt
+maximum number of CNOT are2
+
+the critical path is40  our braiding schedule cycle is40
+
+4gt11_82.qasm.txt
+maximum number of CNOT are1
+
+the critical path is20  our braiding schedule cycle is20
+
+rd53_311.qasm.txt
+maximum number of CNOT are2
+
+the critical path is124  our braiding schedule cycle is124
+
+ex-1_166.qasm.txt
+maximum number of CNOT are1
+
+the critical path is12  our braiding schedule cycle is12
+
+mod5adder_127.qasm.txt
+maximum number of CNOT are2
+
+the critical path is302  our braiding schedule cycle is302
+
+rd32-v1_68.qasm.txt
+maximum number of CNOT are1
+
+the critical path is21  our braiding schedule cycle is21
+
+alu-v3_34.qasm.txt
+maximum number of CNOT are1
+
+the critical path is30  our braiding schedule cycle is30
+
+sym9_146.qasm.txt
+maximum number of CNOT are2
+
+the critical path is127  our braiding schedule cycle is127
+
+mod10_171.qasm.txt
+maximum number of CNOT are2
+
+the critical path is139  our braiding schedule cycle is139
+
+alu-v0_27.qasm.txt
+maximum number of CNOT are2
+
+the critical path is21  our braiding schedule cycle is21
+
+mod5mils_65.qasm.txt
+maximum number of CNOT are1
+
+the critical path is21  our braiding schedule cycle is21
+
+mini_alu_305.qasm.txt
+maximum number of CNOT are3
+
+the critical path is69  our braiding schedule cycle is69
+
+4mod5-v0_19.qasm.txt
+maximum number of CNOT are1
+
+the critical path is21  our braiding schedule cycle is21
+
+rd53_130.qasm.txt
+maximum number of CNOT are3
+
+the critical path is569  our braiding schedule cycle is569
+
+cm85a_209.qasm.txt
+maximum number of CNOT are4
+
+the critical path is6374  our braiding schedule cycle is6375
+
+the critical path is6374  our braiding schedule cycle is6375
+
+1.0
+sym6_145.qasm.txt
+maximum number of CNOT are3
+
+the critical path is2187  our braiding schedule cycle is2187
+
+ham7_104.qasm.txt
+maximum number of CNOT are2
+
+the critical path is185  our braiding schedule cycle is185
+
+qft_n12.qasm.txt
+maximum number of CNOT are6
+
+the critical path is85  our braiding schedule cycle is89
+
+the critical path is85  our braiding schedule cycle is89
+
+4.0
+bv_n14.qasm.txt
+maximum number of CNOT are1
+
+the critical path is16  our braiding schedule cycle is16
+
+cc_n12.qasm.txt
+maximum number of CNOT are1
+
+the critical path is16  our braiding schedule cycle is16
+
+4gt5_76.qasm.txt
+maximum number of CNOT are2
+
+the critical path is56  our braiding schedule cycle is56
+
+ham3_102.qasm.txt
+maximum number of CNOT are1
+
+the critical path is13  our braiding schedule cycle is13
+
+dc2_222.qasm.txt
+maximum number of CNOT are3
+
+the critical path is5242  our braiding schedule cycle is5244
+
+the critical path is5242  our braiding schedule cycle is5244
+
+2.0
+ex1_226.qasm.txt
+maximum number of CNOT are1
+
+the critical path is5  our braiding schedule cycle is5
+
+mod8-10_177.qasm.txt
+maximum number of CNOT are2
+
+the critical path is251  our braiding schedule cycle is251
+
+bv_n12.qasm.txt
+maximum number of CNOT are1
+
+the critical path is14  our braiding schedule cycle is14
+
+cc_n14.qasm.txt
+maximum number of CNOT are1
+
+the critical path is18  our braiding schedule cycle is18
+
+4gt4-v1_74.qasm.txt
+maximum number of CNOT are2
+
+the critical path is154  our braiding schedule cycle is154
+
+co14_215.qasm.txt
+maximum number of CNOT are5
+
+the critical path is8570  our braiding schedule cycle is8570
+
+4gt12-v0_88.qasm.txt
+maximum number of CNOT are2
+
+the critical path is108  our braiding schedule cycle is108
+
+4gt13_91.qasm.txt
+maximum number of CNOT are2
+
+the critical path is61  our braiding schedule cycle is61
+
+plus63mod8192_164.qasm.txt
+maximum number of CNOT are3
+
+the critical path is105142  our braiding schedule cycle is105146
+
+the critical path is105142  our braiding schedule cycle is105146
+
+4.0
+cc_n13.qasm.txt
+maximum number of CNOT are1
+
+the critical path is17  our braiding schedule cycle is17
+
+4gt11_83.qasm.txt
+maximum number of CNOT are1
+
+the critical path is16  our braiding schedule cycle is16
+
+sat_n8_vars=2_clauses=4_clauselen=2_c0e5b4bc4a7708567943d6880c194173.qasm.txt
+sat_n6_vars=2_clauses=3_clauselen=2_52463030d15e7244c9f75bf819d40e3d.qasm.txt
+4gt13_92.qasm.txt
+maximum number of CNOT are2
+
+the critical path is38  our braiding schedule cycle is38
+
+wim_266.qasm.txt
+maximum number of CNOT are3
+
+the critical path is514  our braiding schedule cycle is514
+
+alu-v1_29.qasm.txt
+maximum number of CNOT are2
+
+the critical path is22  our braiding schedule cycle is22
+
+hwb5_53.qasm.txt
+maximum number of CNOT are2
+
+the critical path is758  our braiding schedule cycle is758
+
+0410184_169.qasm.txt
+maximum number of CNOT are5
+
+the critical path is103  our braiding schedule cycle is103
+
+cnt3-5_180.qasm.txt
+maximum number of CNOT are3
+
+the critical path is209  our braiding schedule cycle is209
+
+radd_250.qasm.txt
+maximum number of CNOT are3
+
+the critical path is1781  our braiding schedule cycle is1781
+
+clip_206.qasm.txt
+maximum number of CNOT are4
+
+the critical path is17879  our braiding schedule cycle is17880
+
+the critical path is17879  our braiding schedule cycle is17880
+
+1.0
+hwb4_49.qasm.txt
+maximum number of CNOT are2
+
+the critical path is134  our braiding schedule cycle is134
+
+decod24-bdd_294.qasm.txt
+maximum number of CNOT are2
+
+the critical path is40  our braiding schedule cycle is40
+
+con1_216.qasm.txt
+maximum number of CNOT are2
+
+the critical path is508  our braiding schedule cycle is508
+
+qft_n19.qasm.txt
+maximum number of CNOT are9
+
+the critical path is141  our braiding schedule cycle is159
+
+the critical path is141  our braiding schedule cycle is159
+
+18.0
+sym9_193.qasm.txt
+maximum number of CNOT are4
+
+the critical path is19235  our braiding schedule cycle is19257
+
+the critical path is19235  our braiding schedule cycle is19257
+
+22.0
+alu-v2_33.qasm.txt
+maximum number of CNOT are1
+
+the critical path is22  our braiding schedule cycle is22
+
+4mod5-v0_20.qasm.txt
+maximum number of CNOT are1
+
+the critical path is12  our braiding schedule cycle is12
+
+f2_232.qasm.txt
+maximum number of CNOT are3
+
+the critical path is668  our braiding schedule cycle is668
+
+qft_n13.qasm.txt
+maximum number of CNOT are6
+
+the critical path is93  our braiding schedule cycle is98
+
+the critical path is93  our braiding schedule cycle is98
+
+5.0
+4gt12-v0_87.qasm.txt
+maximum number of CNOT are2
+
+the critical path is131  our braiding schedule cycle is131
+
+cc_n19.qasm.txt
+maximum number of CNOT are1
+
+the critical path is23  our braiding schedule cycle is23
+
+qelib1.inc.txt
+maximum number of CNOT are0
+
+the critical path is0  our braiding schedule cycle is0
+
+rd84_253.qasm.txt
+maximum number of CNOT are4
+
+the critical path is7261  our braiding schedule cycle is7261
+
+graycode6_47.qasm.txt
+maximum number of CNOT are1
+
+the critical path is5  our braiding schedule cycle is5
+
+qft_n11.qasm.txt
+maximum number of CNOT are5
+
+the critical path is77  our braiding schedule cycle is79
+
+the critical path is77  our braiding schedule cycle is79
+
+2.0
+alu-v2_32.qasm.txt
+maximum number of CNOT are2
+
+the critical path is92  our braiding schedule cycle is92
+
+4gt11_84.qasm.txt
+ising_model_10.qasm.txt
+maximum number of CNOT are5
+
+the critical path is70  our braiding schedule cycle is70
+
+sym6_316.qasm.txt
+maximum number of CNOT are2
+
+the critical path is135  our braiding schedule cycle is135
+
+z4_268.qasm.txt
+maximum number of CNOT are3
+
+the critical path is1644  our braiding schedule cycle is1645
+
+the critical path is1644  our braiding schedule cycle is1645
+
+1.0
+one-two-three-v2_100.qasm.txt
+maximum number of CNOT are2
+
+the critical path is40  our braiding schedule cycle is40
+
+max46_240.qasm.txt
+maximum number of CNOT are3
+
+the critical path is14257  our braiding schedule cycle is14257
+
+one-two-three-v0_97.qasm.txt
+maximum number of CNOT are2
+
+the critical path is163  our braiding schedule cycle is163
+
+alu-v2_31.qasm.txt
+maximum number of CNOT are2
+
+the critical path is255  our braiding schedule cycle is255
+
+urf2_152.qasm.txt
+maximum number of CNOT are3
+
+the critical path is44100  our braiding schedule cycle is44100
+
+cycle10_2_110.qasm.txt
+maximum number of CNOT are4
+
+the critical path is3386  our braiding schedule cycle is3386
+
+one-two-three-v1_99.qasm.txt
+maximum number of CNOT are2
+
+the critical path is76  our braiding schedule cycle is76
+
+4gt13_90.qasm.txt
+maximum number of CNOT are2
+
+the critical path is65  our braiding schedule cycle is65
+
+quantum.py.txt
+decod24-v0_38.qasm.txt
+maximum number of CNOT are1
+
+the critical path is30  our braiding schedule cycle is30
+
+sf_276.qasm.txt
+maximum number of CNOT are2
+
+the critical path is435  our braiding schedule cycle is435
+
+aj-e11_165.qasm.txt
+maximum number of CNOT are2
+
+the critical path is86  our braiding schedule cycle is86
+

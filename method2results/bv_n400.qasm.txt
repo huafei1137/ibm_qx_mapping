@@ -1,0 +1,4 @@
+maximum number of CNOT are1
+  CriticalCycles : 2016, Parallelcycles : 2016
+ Heuristic-cycles: 2016
+ overlap-cycles: 2016

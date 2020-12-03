@@ -1,0 +1,1088 @@
+Circuit name: 4_49_16.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 15
+  depth: 8
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 85
+  depth: 41
+the layer is: 0
+target is:1control is : -1type is:1
+gate type number is 0gate type time is:11
+target is:2control is : -1type is:1
+gate type number is 0gate type time is:11
+target is:5control is : -1type is:1
+gate type number is 0gate type time is:11
+the layer is: 1
+target is:1control is : -1type is:1
+gate type number is 1gate type time is:1
+target is:3control is : 2type is:1
+target is:6control is : 5type is:1
+the layer is: 2
+target is:2control is : 1type is:1
+target is:4control is : 3type is:1
+the layer is: 3
+target is:3control is : -1type is:1
+gate type number is 0gate type time is:11
+target is:4control is : -1type is:1
+gate type number is 0gate type time is:11
+the layer is: 4
+target is:3control is : 2type is:1
+target is:6control is : 4type is:1
+the layer is: 5
+target is:4control is : -1type is:1
+gate type number is 1gate type time is:1
+the layer is: 6
+target is:5control is : 4type is:1
+the layer is: 7
+target is:4control is : 1type is:1
+
+The mapping required 0 seconds
+the number of qubits6
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX5 architecture: 
+gate type number is 0gate type time is:11
+gate type number is 0gate type time is:11
+gate type number is 0gate type time is:11
+gate type number is 1gate type time is:1
+the Mc are -1 Mt 1
+the Mc are 2 Mt 3
+the Mc are 5 Mt 6
+the Mc are 1 Mt 2
+the Mc are 3 Mt 4
+gate type number is 0gate type time is:11
+the Mc are -1 Mt 3
+gate type number is 0gate type time is:11
+the Mc are -1 Mt 4
+the Mc are 2 Mt 3
+the Mc are 4 Mt 6
+gate type number is 1gate type time is:1
+the Mc are -1 Mt 4
+the Mc are 4 Mt 5
+the Mc are 1 Mt 4
+3  
+4  
+5  
+6  
+6  7  
+11  13  
+10  14  
+8  9  
+10  
+11  
+
+12  
+13  
+14  
+
+the size of node is 15
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0 th node pop outcurrent time is :10
+1 th node pop outcurrent time is :10
+2 th node pop outcurrent time is :10
+3 th node pop outcurrent time is :11
+4 th node pop outcurrent time is :18
+5 th node pop outcurrent time is :18
+6 th node pop outcurrent time is :26
+7 th node pop outcurrent time is :26
+8 th node pop outcurrent time is :37
+9 th node pop outcurrent time is :37
+10 th node pop outcurrent time is :45
+11 th node pop outcurrent time is :45
+12 th node pop outcurrent time is :46
+13 th node pop outcurrent time is :54
+14 th node pop outcurrent time is :62
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0 th node pop outcurrent time is :10
+control qubit is:-1   target qubit is:2
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+1 th node pop outcurrent time is :10
+control qubit is:-1   target qubit is:5
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+2 th node pop outcurrent time is :10
+control qubit is:-1   target qubit is:1
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+3 th node pop outcurrent time is :11
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+0	0	-1	-1	0	
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+0	0	-1	-1	0	
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+0	0	-1	-1	0	
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+0	0	-1	-1	0	
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+0	0	-1	-1	0	
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+0	0	-1	-1	0	
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+0	0	-1	-1	0	
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+4 th node pop outcurrent time is :18
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+0	0	-1	-1	0	
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+5 th node pop outcurrent time is :18
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+0	-1	-1	-1	0	
+-1	-1	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+0	-1	-1	-1	0	
+-1	-1	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+0	-1	-1	-1	0	
+-1	-1	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+0	-1	-1	-1	0	
+-1	-1	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+0	-1	-1	-1	0	
+-1	-1	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+0	-1	-1	-1	0	
+-1	-1	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+0	-1	-1	-1	0	
+-1	-1	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+0	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+6 th node pop outcurrent time is :26
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+0	-1	-1	-1	0	
+-1	-1	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+7 th node pop outcurrent time is :26
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:-1   target qubit is:3
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+8 th node pop outcurrent time is :37
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+9 th node pop outcurrent time is :37
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+0	0	-1	-1	0	
+-1	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+0	0	-1	-1	0	
+-1	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+0	0	-1	-1	0	
+-1	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+0	0	-1	-1	0	
+-1	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+0	0	-1	-1	0	
+-1	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+0	0	-1	-1	0	
+-1	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+0	0	-1	-1	0	
+-1	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+0	0	-1	-1	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+10 th node pop outcurrent time is :45
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+0	0	-1	-1	0	
+-1	-1	-1	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+11 th node pop outcurrent time is :45
+control qubit is:-1   target qubit is:4
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+12 th node pop outcurrent time is :46
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+0	0	0	0	0	
+-1	-1	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+0	0	0	0	0	
+-1	-1	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+0	0	0	0	0	
+-1	-1	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+0	0	0	0	0	
+-1	-1	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+0	0	0	0	0	
+-1	-1	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+0	0	0	0	0	
+-1	-1	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+0	0	0	0	0	
+-1	-1	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+0	0	0	0	0	
+-1	-1	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+13 th node pop outcurrent time is :54
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+-1	-1	0	0	0	
+-1	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+-1	-1	0	0	0	
+-1	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+-1	-1	0	0	0	
+-1	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+-1	-1	0	0	0	
+-1	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+-1	-1	0	0	0	
+-1	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+-1	-1	0	0	0	
+-1	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+-1	-1	0	0	0	
+-1	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+-1	-1	0	0	0	
+-1	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+14 th node pop outcurrent time is :62
+control qubit is:-1   target qubit is:1
+0 th node
+control qubit is:-1   target qubit is:2
+1 th node
+control qubit is:-1   target qubit is:5
+2 th node
+control qubit is:-1   target qubit is:1
+3 th node
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+4 th node
+control qubit is:5   target qubit is:6
+start point: 1    1
+end point: 1    2
+the shortest path length is1
+5 th node
+control qubit is:1   target qubit is:2
+start point: 0    1
+end point: 0    2
+the shortest path length is1
+6 th node
+control qubit is:3   target qubit is:4
+start point: 0    3
+end point: 1    0
+the shortest path length is4
+7 th node
+control qubit is:-1   target qubit is:3
+8 th node
+control qubit is:-1   target qubit is:4
+9 th node
+control qubit is:2   target qubit is:3
+start point: 0    2
+end point: 0    3
+the shortest path length is1
+10 th node
+control qubit is:4   target qubit is:6
+start point: 1    0
+end point: 1    2
+the shortest path length is2
+11 th node
+control qubit is:-1   target qubit is:4
+12 th node
+control qubit is:4   target qubit is:5
+start point: 1    0
+end point: 1    1
+the shortest path length is1
+13 th node
+control qubit is:1   target qubit is:4
+start point: 0    1
+end point: 1    0
+the shortest path length is2
+14 th node
+the critical path is8  our braiding schedule cycle is8
+  considering gate time critical path is63our braiding schedule cycle is 63

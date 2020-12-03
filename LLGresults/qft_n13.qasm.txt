@@ -1,0 +1,15 @@
+the qubit numbers are13
+maximum overlap size LLG for initial mapping5
+number of LLG size > 3 for initial mapping20
+ average of LLG size > 3 for initial mapping4
+*************
+maximum overlap size LLG for random mapping6
+number of LLG size > 3 for random mapping14
+ average of LLG size > 3 for random mapping5
+*************
+maximum number of CNOT are6
+  CriticalCycles : 250, Parallelcycles : 300
+the new initialmapping method Parallelcycles : 300
+ Heuristic-cycles with initial: 300
+ overlap-cycles with initial: 291
+total number of concurrent groups are0

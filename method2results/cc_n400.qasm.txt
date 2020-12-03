@@ -1,0 +1,4 @@
+maximum number of CNOT are1
+  CriticalCycles : 2005, Parallelcycles : 2005
+ Heuristic-cycles: 2005
+ overlap-cycles: 2005
